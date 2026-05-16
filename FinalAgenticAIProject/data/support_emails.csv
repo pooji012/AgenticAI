@@ -1,0 +1,9 @@
+email_id,subject,body,sender_email,timestamp,priority
+E001,App Crash Report,"Hi team, after upgrading to version 3.0.1 the app crashes when I tap Weekly Planner. Device: Pixel 7. OS: Android 15. Steps: open app, tap Planner, choose Weekly view, crash.",user1@example.com,2026-05-02 09:15,High
+E002,Feature Request: Dark Mode,"Hello, I use the app at night and would like dark mode. A quick toggle in settings would help a lot.",user2@example.com,2026-05-03 18:40,
+E003,Data Loss Problem,"My completed tasks disappeared after sync. iPhone 15, iOS 18.3, app 3.0.1. It happened after switching from Wi-Fi to mobile data.",user3@example.com,2026-05-04 07:22,Critical
+E004,Suggestion for Improvement,"Could you add export to CSV for task history? I need it for monthly reporting.",user4@example.com,2026-05-05 13:05,Medium
+E005,Thank you,"Your support team helped me recover my list quickly. Great service.",user5@example.com,2026-05-06 11:10,Low
+E006,Login Issue,"I cannot login with Google sign-in. It loops back to the login screen. Samsung S22, Android 14.",user6@example.com,2026-05-07 08:10,High
+E007,Random Offer,"Earn money fast by clicking this link and sharing it with friends.",spam@example.com,2026-05-07 12:00,Low
+E008,App is too slow,"The app opens slowly and takes too long to load my dashboard. Please improve performance.",user8@example.com,2026-05-08 16:35,Medium

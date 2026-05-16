@@ -1,0 +1,29 @@
+WORK FROM HOME POLICY
+
+1. Eligibility
+   - All full-time employees who have completed their probation period (6 months) are eligible for work from home.
+   - Interns and contract employees are not eligible unless approved by the department head.
+
+2. Work From Home Days
+   - Employees can work from home up to 2 days per week (Tuesday and Thursday are preferred WFH days).
+   - The remaining 3 days must be spent in the office.
+   - Employees must inform their manager at least 1 day in advance.
+
+3. Core Working Hours
+   - Employees must be available during core hours: 10:00 AM to 4:00 PM IST.
+   - Flexible start time: between 8:00 AM and 10:00 AM.
+   - Total working hours: 8 hours per day.
+
+4. Equipment and Setup
+   - The company provides a laptop for all employees.
+   - Employees are responsible for maintaining a stable internet connection (minimum 10 Mbps).
+   - A one-time WFH setup allowance of Rs 5,000 is provided.
+
+5. Communication
+   - Employees must be reachable via Slack and email during working hours.
+   - Video must be turned on during team meetings.
+   - Daily standup attendance is mandatory.
+
+6. Exceptions
+   - During critical project phases, the manager may require full in-office attendance.
+   - Employees with performance concerns may have WFH privileges revoked.

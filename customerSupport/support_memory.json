@@ -1,0 +1,34 @@
+{
+  "customer_test": [
+    {
+      "timestamp": "2026-04-25T12:12:49",
+      "thread_id": "thread_test",
+      "issue": "I was charged twice for my subscription.",
+      "outcome": "Escalated to human review with ticket TKT-E186478D.",
+      "status": "pending_human_review"
+    }
+  ],
+  "customer_001": [
+    {
+      "timestamp": "2026-04-25T13:43:31",
+      "thread_id": "e8fddb59-1f8d-4d94-a97c-181460647fe8",
+      "issue": "How can I reset my password?",
+      "outcome": "To reset your password, please go to the login page and select the 'Forgot Password' option. You will receive a reset link sent to your registered email. Please note that the link expires in 15 minutes, so make sure to check your email promptly. If you have any issues or need further assistance, feel free to ask!",
+      "status": "resolved_by_ai"
+    },
+    {
+      "timestamp": "2026-04-25T21:09:26",
+      "thread_id": "55416ae5-f561-4bbe-8eac-927bd382e34f",
+      "issue": "what is your work",
+      "outcome": "Hello Customer 001! My primary role is to assist you with any questions or issues you may have regarding our products and services. Whether you need help with troubleshooting, account management, or general inquiries, I'm here to provide support. If there's something specific you'd like to know or need assistance with, please let me know!",
+      "status": "resolved_by_ai"
+    },
+    {
+      "timestamp": "2026-04-28T23:13:16",
+      "thread_id": "a2f01e94-170c-4d47-9c5a-db8fd0d4cc66",
+      "issue": "what is my last question",
+      "outcome": "Your last question was about what my work is. You asked, \"what is your work,\" and I explained that my primary role is to assist you with any questions or issues you may have regarding our products and services. If you have any other questions or need further assistance, feel free to ask!",
+      "status": "resolved_by_ai"
+    }
+  ]
+}

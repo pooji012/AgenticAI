@@ -1,0 +1,11 @@
+review_id,platform,rating,review_text,user_name,date,app_version
+R001,Google Play,1,"App crashes every time I open the weekly planner after the 3.0.1 update. I am on Pixel 7 Android 15.",Aarav,2026-05-01,3.0.1
+R002,App Store,5,"Amazing app. The calendar sync works perfectly and saves me time every morning.",Maya,2026-05-02,3.0.1
+R003,Google Play,2,"Can't login since the last update. It keeps saying invalid token even after resetting password.",Noah,2026-05-03,3.0.0
+R004,App Store,4,"Please add dark mode and a focus timer widget. I would love to see both in the next release.",Priya,2026-05-04,2.9.8
+R005,Google Play,2,"The app is too expensive now and the free plan is too limited.",Liam,2026-05-05,3.0.1
+R006,Google Play,1,"Data sync not working between phone and tablet. Tasks disappear after I mark them done.",Sofia,2026-05-06,3.0.1
+R007,App Store,5,"Love the new habits page. It is simple and fast.",Emma,2026-05-06,3.0.1
+R008,Google Play,1,"BUY CHEAP FOLLOWERS NOW visit promo-example dot com!!!!",PromoBot,2026-05-07,3.0.1
+R009,App Store,3,"Missing recurring task templates for monthly bills. Please add reusable templates.",Olivia,2026-05-08,3.0.1
+R010,Google Play,2,"App is slow on startup and sometimes freezes for 20 seconds on Samsung S22.",Ethan,2026-05-09,3.0.1

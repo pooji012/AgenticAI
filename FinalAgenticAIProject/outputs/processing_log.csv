@@ -1,0 +1,19 @@
+timestamp,source_id,agent_path,category,priority,confidence,decision,ticket_id,quality_score,status
+2026-05-12T18:52:16,R001,CSV Reader -> Classifier -> Bug Analyzer -> Ticket Creator -> Quality Critic,Bug,High,0.41,Matched bug language with confidence 0.41.,TKT-0001,1.0,Approved
+2026-05-12T18:52:16,R002,CSV Reader -> Classifier -> Ticket Creator -> Quality Critic,Praise,Low,0.63,Matched praise language with confidence 0.63.,TKT-0002,1.0,Approved
+2026-05-12T18:52:16,R003,CSV Reader -> Classifier -> Bug Analyzer -> Ticket Creator -> Quality Critic,Bug,High,0.65,Matched bug language with confidence 0.65.,TKT-0003,1.0,Approved
+2026-05-12T18:52:16,R004,CSV Reader -> Classifier -> Feature Extractor -> Ticket Creator -> Quality Critic,Feature Request,Medium,0.53,Matched feature request language with confidence 0.53.,TKT-0004,1.0,Approved
+2026-05-12T18:52:16,R005,CSV Reader -> Classifier -> Ticket Creator -> Quality Critic,Complaint,Medium,0.61,Matched complaint language with confidence 0.61.,TKT-0005,1.0,Approved
+2026-05-12T18:52:16,R006,CSV Reader -> Classifier -> Bug Analyzer -> Ticket Creator -> Quality Critic,Bug,Critical,0.65,Matched bug language with confidence 0.65.,TKT-0006,1.0,Approved
+2026-05-12T18:52:16,R007,CSV Reader -> Classifier -> Ticket Creator -> Quality Critic,Praise,Low,0.39,Matched praise language with confidence 0.39.,TKT-0007,1.0,Approved
+2026-05-12T18:52:16,R008,CSV Reader -> Classifier -> Ticket Creator -> Quality Critic,Spam,Low,0.77,Matched spam language with confidence 0.77.,TKT-0008,1.0,Approved
+2026-05-12T18:52:17,R009,CSV Reader -> Classifier -> Feature Extractor -> Ticket Creator -> Quality Critic,Feature Request,Medium,0.53,Matched feature request language with confidence 0.53.,TKT-0009,1.0,Approved
+2026-05-12T18:52:17,R010,CSV Reader -> Classifier -> Bug Analyzer -> Ticket Creator -> Quality Critic,Bug,Medium,0.41,Matched bug language with confidence 0.41.,TKT-0010,1.0,Approved
+2026-05-12T18:52:17,E001,CSV Reader -> Classifier -> Bug Analyzer -> Ticket Creator -> Quality Critic,Bug,High,0.29,Matched bug language with confidence 0.29.,TKT-0011,1.0,Approved
+2026-05-12T18:52:17,E002,CSV Reader -> Classifier -> Feature Extractor -> Ticket Creator -> Quality Critic,Feature Request,Medium,0.29,Matched feature request language with confidence 0.29.,TKT-0012,1.0,Approved
+2026-05-12T18:52:17,E003,CSV Reader -> Classifier -> Bug Analyzer -> Ticket Creator -> Quality Critic,Bug,Critical,0.53,Matched bug language with confidence 0.53.,TKT-0013,1.0,Approved
+2026-05-12T18:52:17,E004,CSV Reader -> Classifier -> Feature Extractor -> Ticket Creator -> Quality Critic,Feature Request,Medium,0.77,Matched feature request language with confidence 0.77.,TKT-0014,1.0,Approved
+2026-05-12T18:52:17,E005,CSV Reader -> Classifier -> Ticket Creator -> Quality Critic,Praise,Low,0.77,Matched praise language with confidence 0.77.,TKT-0015,1.0,Approved
+2026-05-12T18:52:17,E006,CSV Reader -> Classifier -> Bug Analyzer -> Ticket Creator -> Quality Critic,Bug,High,0.53,Matched bug language with confidence 0.53.,TKT-0016,1.0,Approved
+2026-05-12T18:52:17,E007,CSV Reader -> Classifier -> Ticket Creator -> Quality Critic,Spam,Low,0.53,Matched spam language with confidence 0.53.,TKT-0017,1.0,Approved
+2026-05-12T18:52:17,E008,CSV Reader -> Classifier -> Ticket Creator -> Quality Critic,Complaint,Medium,0.53,Matched complaint language with confidence 0.53.,TKT-0018,1.0,Approved

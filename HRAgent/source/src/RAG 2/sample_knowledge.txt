@@ -1,0 +1,22 @@
+Retrieval-Augmented Generation, usually called RAG, is a design pattern that helps a language model answer questions using external knowledge.
+
+A normal LLM answers from what it learned during training. A RAG system first searches a knowledge source, finds relevant pieces of text, and then gives those pieces to the model as context.
+
+The standard RAG flow is:
+1. Load a document or a collection of documents.
+2. Split the content into smaller chunks.
+3. Convert each chunk into an embedding.
+4. Store the embeddings in an index or vector database.
+5. When a user asks a question, convert the question into an embedding.
+6. Compare the question embedding with the stored chunk embeddings.
+7. Retrieve the most similar chunks.
+8. Send the question and retrieved chunks to the LLM.
+9. Generate an answer grounded in the retrieved context.
+
+Why is chunking needed? Because documents are often too large to send to the model at once, and smaller chunks improve retrieval precision.
+
+Why are embeddings used? Because embeddings convert meaning into numbers, allowing us to compare semantic similarity.
+
+RAG improves factual grounding, helps with private data, and reduces hallucinations. However, RAG is only as good as the source data, chunking strategy, retrieval quality, and prompt design.
+
+A simple classroom demo of RAG can be built with a plain text file, OpenAI embeddings, cosine similarity, and a final answer-generation step using a chat model.

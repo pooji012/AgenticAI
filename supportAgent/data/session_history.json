@@ -1,0 +1,1502 @@
+[
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T16:59:47",
+    "result": {
+      "ticket_id": "TKT-549A211E",
+      "issue": "8370 Jessica Cuevas natalie56@example.org 27 Male iPhone 2020-01-28 Product inquiry Display issue im having an issue with the iphone please assist thank you at the end of the video clip the woman on the ground cries over the video as she sees the camera go off but she appears im unable to find the option to perform the desired action in the iphone could you please guide me through the steps Open Medium Email 3.0",
+      "intent": "account",
+      "sentiment": "positive",
+      "urgency": "low",
+      "topic": "Account",
+      "route_to": "account_support",
+      "escalation_needed": false,
+      "draft_response": "Thanks for contacting support. Please confirm the registered email address so we can help with account access. Based on our policy, Issue: 8370 Jessica Cuevas natalie56@example.org 27 Male iPhone 2020-01-28 Product inquiry Display issue im having an issue with the iphone please assist thank you at the end of th..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T16:59:47",
+    "result": {
+      "ticket_id": "TKT-C789DC7A",
+      "issue": "8371 Rebecca Harper keithmora@example.net 46 Other Bose SoundLink Speaker 2021-07-13 Billing inquiry Network problem im having an issue with the bose soundlink speaker please assist please help me i dont know what to do now thank you i dont understand im still doing it do you understand what happened im unable to find the option to perform the desired action in the bose soundlink speaker could you please guide me through the steps Closed Over if government across message face go. Critical Phone 2023-06-01 11:12:18 2023-06-01 01:33:18 1.0",
+      "intent": "general support",
+      "sentiment": "positive",
+      "urgency": "medium",
+      "topic": "General Support",
+      "route_to": "general_support",
+      "escalation_needed": false,
+      "draft_response": "Thanks for contacting support. Please share the order ID and any extra details so we can investigate. Based on our policy, Issue: 8371 Rebecca Harper keithmora@example.net 46 Other Bose SoundLink Speaker 2021-07-13 Billing inquiry Network problem im having an issue with the bose soundlink speaker pleas..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T16:59:48",
+    "result": {
+      "ticket_id": "TKT-5C49E169",
+      "issue": "8372 Jessica Henry haleyjoshua@example.com 57 Male Apple AirPods 2021-02-17 Refund request Payment issue ive recently set up my apple airpods but it fails to connect to any available networks what steps should i take to troubleshoot this issue 1 create a temporary ip address on the current system not on the im using the original charger that came with my apple airpods but its not charging properly Open Critical Phone 3.0",
+      "intent": "refund",
+      "sentiment": "negative",
+      "urgency": "low",
+      "topic": "Refund",
+      "route_to": "senior_support",
+      "escalation_needed": true,
+      "draft_response": "I am sorry for the trouble. Please share your order ID and delivery date so we can check refund eligibility. Based on our policy, Issue: 8372 Jessica Henry haleyjoshua@example.com 57 Male Apple AirPods 2021-02-17 Refund request Payment issue ive recently set up my apple airpods but it fails to connect to any ..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T16:59:48",
+    "result": {
+      "ticket_id": "TKT-FA60AE90",
+      "issue": "8373 Carl Conley nbates@example.com 60 Other Microsoft Xbox Controller 2020-09-04 Refund request Installation support im unable to access my microsoft xbox controller account it keeps displaying an invalid credentials error even though im using the correct login information how can i regain access to my account if your ive recently updated the firmware of my microsoft xbox controller and the issue started happening afterward could it be related to the update Pending Customer Response High Social media 2023-06-01 22:31:19 3.0",
+      "intent": "account",
+      "sentiment": "negative",
+      "urgency": "low",
+      "topic": "Account",
+      "route_to": "senior_support",
+      "escalation_needed": true,
+      "draft_response": "I am sorry for the trouble. Please confirm the registered email address so we can help with account access. Based on our policy, Issue: 8373 Carl Conley nbates@example.com 60 Other Microsoft Xbox Controller 2020-09-04 Refund request Installation support im unable to access my microsoft xbox controller accoun..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T16:59:49",
+    "result": {
+      "ticket_id": "TKT-081F9281",
+      "issue": "8374 Jose Turner simmonsleslie@example.com 36 Male Nintendo Switch Pro Controller 2021-04-28 Cancellation request Product setup im having an issue with the nintendo switch pro controller please assist thank you for contacting us we dont want to hear about issues ive reviewed the troubleshooting steps on the official support website but they didnt resolve the problem Open Medium Chat 3.0",
+      "intent": "general support",
+      "sentiment": "neutral",
+      "urgency": "low",
+      "topic": "General Support",
+      "route_to": "general_support",
+      "escalation_needed": false,
+      "draft_response": "Thanks for contacting support. Please share the order ID and any extra details so we can investigate. Based on our policy, Issue: 8374 Jose Turner simmonsleslie@example.com 36 Male Nintendo Switch Pro Controller 2021-04-28 Cancellation request Product setup im having an issue with the nintendo switch p..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T16:59:49",
+    "result": {
+      "ticket_id": "TKT-ABF5DE84",
+      "issue": "8375 Eric Fields garzatodd@example.org 45 Male Amazon Echo 2020-09-17 Refund request Delivery problem im having an issue with the amazon echo please assist thank you for your feedback ive recently updated the firmware of my amazon echo and the issue started happening afterward could it be related to the update Closed Commercial deal perhaps explain. Critical Social media 2023-06-02 00:54:21 2023-06-01 05:07:21 2.0",
+      "intent": "shipping",
+      "sentiment": "negative",
+      "urgency": "low",
+      "topic": "Shipping",
+      "route_to": "senior_support",
+      "escalation_needed": true,
+      "draft_response": "I am sorry for the trouble. Please share your order ID so we can check the latest tracking status. Based on our policy, Issue: 8375 Eric Fields garzatodd@example.org 45 Male Amazon Echo 2020-09-17 Refund request Delivery problem im having an issue with the amazon echo please assist thank you for you..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T16:59:50",
+    "result": {
+      "ticket_id": "TKT-B9CC2424",
+      "issue": "8376 Mark Smith butleralyssa@example.com 44 Female Bose SoundLink Speaker 2020-06-29 Cancellation request Display issue im having an issue with the bose soundlink speaker please assist else if productmanagerprice thisshowproductpurchased ive recently updated the firmware of my bose soundlink speaker and the issue started happening afterward could it be related to the update Closed International but source difference ask. Medium Phone 2023-06-01 18:52:23 2023-06-01 14:10:23 3.0",
+      "intent": "shipping",
+      "sentiment": "negative",
+      "urgency": "high",
+      "topic": "Shipping",
+      "route_to": "senior_support",
+      "escalation_needed": true,
+      "draft_response": "I am sorry for the trouble. Please share your order ID so we can check the latest tracking status. Based on our policy, Issue: 8376 Mark Smith butleralyssa@example.com 44 Female Bose SoundLink Speaker 2020-06-29 Cancellation request Display issue im having an issue with the bose soundlink speaker pl... I am also routing this for priority review."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T16:59:50",
+    "result": {
+      "ticket_id": "TKT-7B3985A6",
+      "issue": "8377 Anna Holland irocha@example.org 26 Female Apple AirPods 2021-10-17 Cancellation request Display issue im having an issue with the apple airpods please assist my issue is about the package that i receive on the checkout page please help me my problem is what package that i receive on the checkout ive recently updated the firmware of my apple airpods and the issue started happening afterward could it be related to the update Closed Late tend compare ability task from. High Social media 2023-06-01 05:32:24 2023-06-01 09:11:24 3.0",
+      "intent": "shipping",
+      "sentiment": "negative",
+      "urgency": "low",
+      "topic": "Shipping",
+      "route_to": "senior_support",
+      "escalation_needed": true,
+      "draft_response": "I am sorry for the trouble. Please share your order ID so we can check the latest tracking status. Based on our policy, Issue: 8377 Anna Holland irocha@example.org 26 Female Apple AirPods 2021-10-17 Cancellation request Display issue im having an issue with the apple airpods please assist my issue i..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T16:59:51",
+    "result": {
+      "ticket_id": "TKT-9CD439C8",
+      "issue": "8378 David Patton charlesli@example.org 34 Female Asus ROG 2020-04-02 Technical issue Data loss im encountering a software bug in the asus rog whenever i try to perform a specific action the application crashes are there any updates or fixes available is any new feature being used is there any reason for such a ive already contacted customer support multiple times but the issue remains unresolved Closed Arm science hotel identify listen become. Critical Chat 2023-06-01 21:50:25 2023-06-01 15:21:25 5.0",
+      "intent": "general support",
+      "sentiment": "positive",
+      "urgency": "low",
+      "topic": "General Support",
+      "route_to": "general_support",
+      "escalation_needed": false,
+      "draft_response": "Thanks for contacting support. Please share the order ID and any extra details so we can investigate. Based on our policy, Issue: 8378 David Patton charlesli@example.org 34 Female Asus ROG 2020-04-02 Technical issue Data loss im encountering a software bug in the asus rog whenever i try to perform a sp..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T16:59:52",
+    "result": {
+      "ticket_id": "TKT-051543CE",
+      "issue": "8379 Brooke Miles acalderon@example.com 18 Male Dell XPS 2021-02-24 Technical issue Software bug im having an issue with the dell xps please assist 4 dont go to the store click here to go to checkout 5 dont try any products you need like a bottle ive checked the device settings and made sure that everything is configured correctly Pending Customer Response Critical Social media 2023-06-01 15:14:27 3.0",
+      "intent": "general support",
+      "sentiment": "neutral",
+      "urgency": "low",
+      "topic": "General Support",
+      "route_to": "general_support",
+      "escalation_needed": false,
+      "draft_response": "Thanks for contacting support. Please share the order ID and any extra details so we can investigate. Based on our policy, Issue: 8379 Brooke Miles acalderon@example.com 18 Male Dell XPS 2021-02-24 Technical issue Software bug im having an issue with the dell xps please assist 4 dont go to the store cl..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T16:59:52",
+    "result": {
+      "ticket_id": "TKT-749A6C28",
+      "issue": "8380 Julie Villegas zsolis@example.org 19 Female Fitbit Versa Smartwatch 2020-03-02 Refund request Software bug ive forgotten my password for my fitbit versa smartwatch account and the password reset option is not working how can i recover my account by submitting code to reset your password please do not post to uverm im unable to find the option to perform the desired action in the fitbit versa smartwatch could you please guide me through the steps Open Low Social media 3.0",
+      "intent": "account",
+      "sentiment": "negative",
+      "urgency": "low",
+      "topic": "Account",
+      "route_to": "senior_support",
+      "escalation_needed": true,
+      "draft_response": "I am sorry for the trouble. Please confirm the registered email address so we can help with account access. Based on our policy, Issue: 8380 Julie Villegas zsolis@example.org 19 Female Fitbit Versa Smartwatch 2020-03-02 Refund request Software bug ive forgotten my password for my fitbit versa smartwatch acco..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T16:59:53",
+    "result": {
+      "ticket_id": "TKT-781BDA2F",
+      "issue": "8381 Tracey Young andrew47@example.net 39 Female GoPro Hero 2020-01-09 Billing inquiry Hardware issue ive recently set up my gopro hero but it fails to connect to any available networks what steps should i take to troubleshoot this issue to resolve this issue see the issue from previous chapter the problem is ive performed a factory reset on my gopro hero hoping it would resolve the problem but it didnt help Closed Listen movement state rock stock election why often. Medium Phone 2023-06-01 06:29:30 2023-06-01 08:56:30 1.0",
+      "intent": "general support",
+      "sentiment": "neutral",
+      "urgency": "low",
+      "topic": "General Support",
+      "route_to": "general_support",
+      "escalation_needed": false,
+      "draft_response": "Thanks for contacting support. Please share the order ID and any extra details so we can investigate. Based on our policy, Issue: 8381 Tracey Young andrew47@example.net 39 Female GoPro Hero 2020-01-09 Billing inquiry Hardware issue ive recently set up my gopro hero but it fails to connect to any availa..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T16:59:53",
+    "result": {
+      "ticket_id": "TKT-55FB6D0E",
+      "issue": "8382 David Wilson anthony00@example.com 51 Female Garmin Forerunner 2021-12-08 Product inquiry Cancellation request im facing issues logging into my garmin forerunner account it says my account is locked what should i do to unlock it if you want to unlock your account and log into another device you can then do the ive tried using different cables adapters or peripherals with my garmin forerunner but the issue persists Pending Customer Response Low Phone 2023-06-01 02:48:31 3.0",
+      "intent": "account",
+      "sentiment": "negative",
+      "urgency": "low",
+      "topic": "Account",
+      "route_to": "senior_support",
+      "escalation_needed": true,
+      "draft_response": "I am sorry for the trouble. Please confirm the registered email address so we can help with account access. Based on our policy, Issue: 8382 David Wilson anthony00@example.com 51 Female Garmin Forerunner 2021-12-08 Product inquiry Cancellation request im facing issues logging into my garmin forerunner accoun..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T16:59:54",
+    "result": {
+      "ticket_id": "TKT-0817D634",
+      "issue": "8383 Shane Ayala stanleyjoyce@example.org 40 Male GoPro Action Camera 2020-09-20 Technical issue Delivery problem ive accidentally deleted important data from my gopro action camera is there any way to recover the deleted files i need them urgently thank you for your concern your request was made using the following data types i rely heavily on my gopro action camera for my daily tasks and this issue is hindering my productivity Pending Customer Response High Chat 2023-06-01 17:27:32 3.0",
+      "intent": "shipping",
+      "sentiment": "positive",
+      "urgency": "high",
+      "topic": "Shipping",
+      "route_to": "senior_support",
+      "escalation_needed": true,
+      "draft_response": "Thanks for contacting support. Please share your order ID so we can check the latest tracking status. Based on our policy, Issue: 8383 Shane Ayala stanleyjoyce@example.org 40 Male GoPro Action Camera 2020-09-20 Technical issue Delivery problem ive accidentally deleted important data from my gopro actio... I am also routing this for priority review."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T16:59:54",
+    "result": {
+      "ticket_id": "TKT-288F3B63",
+      "issue": "8384 Catherine Conway hthomas@example.net 32 Female LG Smart TV 2021-02-13 Technical issue Peripheral compatibility im having an issue with the lg smart tv please assist your name and shipping address have been confirmed your name and shipping address have been confirmed please note that the following may affect your status upon ive reviewed the troubleshooting steps on the official support website but they didnt resolve the problem Closed Month feel huge child bad cultural game. Low Email 2023-06-01 17:38:34 2023-06-01 09:59:34 4.0",
+      "intent": "shipping",
+      "sentiment": "negative",
+      "urgency": "low",
+      "topic": "Shipping",
+      "route_to": "senior_support",
+      "escalation_needed": true,
+      "draft_response": "I am sorry for the trouble. Please share your order ID so we can check the latest tracking status. Based on our policy, Issue: 8384 Catherine Conway hthomas@example.net 32 Female LG Smart TV 2021-02-13 Technical issue Peripheral compatibility im having an issue with the lg smart tv please assist you..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T16:59:55",
+    "result": {
+      "ticket_id": "TKT-7311D42F",
+      "issue": "8385 Jeremy Gibbs danalopez@example.com 48 Male Lenovo ThinkPad 2021-01-05 Billing inquiry Software bug ive accidentally deleted important data from my lenovo thinkpad is there any way to recover the deleted files i need them urgently sorry to hear all however id like to ask for someone to respond for this im unable to find the option to perform the desired action in the lenovo thinkpad could you please guide me through the steps Closed Memory tough a memory their. Low Chat 2023-06-01 10:11:35 2023-06-02 00:32:35 2.0",
+      "intent": "general support",
+      "sentiment": "neutral",
+      "urgency": "high",
+      "topic": "General Support",
+      "route_to": "senior_support",
+      "escalation_needed": true,
+      "draft_response": "Thanks for contacting support. Please share the order ID and any extra details so we can investigate. Based on our policy, Issue: 8385 Jeremy Gibbs danalopez@example.com 48 Male Lenovo ThinkPad 2021-01-05 Billing inquiry Software bug ive accidentally deleted important data from my lenovo thinkpad is th... I am also routing this for priority review."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T16:59:55",
+    "result": {
+      "ticket_id": "TKT-3D122945",
+      "issue": "8386 Dr. April Taylor petersonlinda@example.com 41 Female GoPro Action Camera 2021-11-25 Technical issue Product setup im having an issue with the gopro action camera please assist ive added a new product id gopro action camera which requires 1 signon time and adds an option on the right side to im unable to find the option to perform the desired action in the gopro action camera could you please guide me through the steps Pending Customer Response Medium Social media 2023-06-01 06:01:37 3.0",
+      "intent": "general support",
+      "sentiment": "neutral",
+      "urgency": "low",
+      "topic": "General Support",
+      "route_to": "general_support",
+      "escalation_needed": false,
+      "draft_response": "Thanks for contacting support. Please share the order ID and any extra details so we can investigate. Based on our policy, Issue: 8386 Dr. April Taylor petersonlinda@example.com 41 Female GoPro Action Camera 2021-11-25 Technical issue Product setup im having an issue with the gopro action camera please..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T16:59:56",
+    "result": {
+      "ticket_id": "TKT-AE195E60",
+      "issue": "8387 Caitlin Robinson bsmith@example.com 24 Female Dyson Vacuum Cleaner 2020-02-11 Refund request Installation support im having an issue with the dyson vacuum cleaner please assist im concerned about the security of my dyson vacuum cleaner and would like to ensure that my data is safe Pending Customer Response Critical Social media 2023-06-01 12:50:37 3.0",
+      "intent": "refund",
+      "sentiment": "negative",
+      "urgency": "low",
+      "topic": "Refund",
+      "route_to": "senior_support",
+      "escalation_needed": true,
+      "draft_response": "I am sorry for the trouble. Please share your order ID and delivery date so we can check refund eligibility. Based on our policy, Issue: 8387 Caitlin Robinson bsmith@example.com 24 Female Dyson Vacuum Cleaner 2020-02-11 Refund request Installation support im having an issue with the dyson vacuum cleaner pleas..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T16:59:56",
+    "result": {
+      "ticket_id": "TKT-3435079D",
+      "issue": "8388 Monica Shah davidlee@example.org 66 Female Apple AirPods 2020-10-08 Product inquiry Battery life im having an issue with the apple airpods please assist i bought the product from amazon at the 29 discount i was in the same situation as i had before but it was 1449 ive checked for software updates and my apple airpods is already running the latest version Open Critical Email 3.0",
+      "intent": "shipping",
+      "sentiment": "negative",
+      "urgency": "low",
+      "topic": "Shipping",
+      "route_to": "senior_support",
+      "escalation_needed": true,
+      "draft_response": "I am sorry for the trouble. Please share your order ID so we can check the latest tracking status. Based on our policy, Issue: 8388 Monica Shah davidlee@example.org 66 Female Apple AirPods 2020-10-08 Product inquiry Battery life im having an issue with the apple airpods please assist i bought the pr..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T16:59:57",
+    "result": {
+      "ticket_id": "TKT-9DCDF3FA",
+      "issue": "8389 Sharon Marsh brittanycaldwell@example.org 33 Male Garmin Forerunner 2021-12-18 Refund request Account access im having an issue with the garmin forerunner please assist my name is lidiaann and i am currently a licensed clinical pharmacist using a combination of prescription medicine vicovir and prozac ive checked the device settings and made sure that everything is configured correctly Closed Rate already common least discuss long never. Low Phone 2023-06-01 11:40:40 2023-06-02 00:46:40 5.0",
+      "intent": "refund",
+      "sentiment": "negative",
+      "urgency": "low",
+      "topic": "Refund",
+      "route_to": "senior_support",
+      "escalation_needed": true,
+      "draft_response": "I am sorry for the trouble. Please share your order ID and delivery date so we can check refund eligibility. Based on our policy, Issue: 8389 Sharon Marsh brittanycaldwell@example.org 33 Male Garmin Forerunner 2021-12-18 Refund request Account access im having an issue with the garmin forerunner please assist..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T16:59:57",
+    "result": {
+      "ticket_id": "TKT-4E1B7060",
+      "issue": "8390 Melissa Romero garyallen@example.com 58 Female Nintendo Switch Pro Controller 2021-10-07 Refund request Delivery problem im having an issue with the nintendo switch pro controller please assist thank you its a lot of work to get the best bang for your buck but this is what we did for you if you need help im concerned about the security of my nintendo switch pro controller and would like to ensure that my data is safe Open High Social media 3.0",
+      "intent": "refund",
+      "sentiment": "neutral",
+      "urgency": "low",
+      "topic": "Refund",
+      "route_to": "refund_team",
+      "escalation_needed": false,
+      "draft_response": "Thanks for contacting support. Please share your order ID and delivery date so we can check refund eligibility. Based on our policy, Issue: 8390 Melissa Romero garyallen@example.com 58 Female Nintendo Switch Pro Controller 2021-10-07 Refund request Delivery problem im having an issue with the nintendo switch pro..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T16:59:58",
+    "result": {
+      "ticket_id": "TKT-67AEE2FF",
+      "issue": "8391 Michelle Dalton herringgavin@example.com 23 Female Sony Xperia 2020-02-10 Cancellation request Payment issue im having an issue with the sony xperia please assist thanks rated 1 out of 5 by fartfan from not for the money it doesnt work it cant be used on a bag bag im not sure if this issue is specific to my device or if others have reported similar problems Closed Keep state source take expect. Critical Email 2023-06-01 05:55:44 2023-06-01 08:36:44 2.0",
+      "intent": "account",
+      "sentiment": "neutral",
+      "urgency": "low",
+      "topic": "Account",
+      "route_to": "account_support",
+      "escalation_needed": false,
+      "draft_response": "Thanks for contacting support. Please confirm the registered email address so we can help with account access. Based on our policy, Issue: 8391 Michelle Dalton herringgavin@example.com 23 Female Sony Xperia 2020-02-10 Cancellation request Payment issue im having an issue with the sony xperia please assist thank..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T16:59:58",
+    "result": {
+      "ticket_id": "TKT-5A091036",
+      "issue": "8392 Allison Hartman lisa70@example.com 69 Female GoPro Hero 2020-10-28 Refund request Peripheral compatibility ive encountered a data loss issue with my gopro hero all the files and documents seem to have disappeared can you guide me on how to retrieve them ive encountered a data loss issue with my website after updating the issue im facing is intermittent sometimes it works fine but other times it acts up unexpectedly Closed Box professor on store final hard simply available. Low Phone 2023-06-01 14:06:45 2023-06-01 06:23:45 5.0",
+      "intent": "refund",
+      "sentiment": "negative",
+      "urgency": "low",
+      "topic": "Refund",
+      "route_to": "senior_support",
+      "escalation_needed": true,
+      "draft_response": "I am sorry for the trouble. Please share your order ID and delivery date so we can check refund eligibility. Based on our policy, Issue: 8392 Allison Hartman lisa70@example.com 69 Female GoPro Hero 2020-10-28 Refund request Peripheral compatibility ive encountered a data loss issue with my gopro hero all the ..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T16:59:59",
+    "result": {
+      "ticket_id": "TKT-52EDFFBE",
+      "issue": "8393 Shawn Williams morenovanessa@example.org 65 Female Fitbit Versa Smartwatch 2020-08-10 Cancellation request Product setup ive forgotten my password for my fitbit versa smartwatch account and the password reset option is not working how can i recover my account to resolve this you will have to restart your app and start again after im experiencing this issue on multiple devices of the same model so it seems to be a widespread problem Pending Customer Response Medium Email 2023-06-02 00:00:46 3.0",
+      "intent": "account",
+      "sentiment": "negative",
+      "urgency": "medium",
+      "topic": "Account",
+      "route_to": "senior_support",
+      "escalation_needed": true,
+      "draft_response": "I am sorry for the trouble. Please confirm the registered email address so we can help with account access. Based on our policy, Issue: 8393 Shawn Williams morenovanessa@example.org 65 Female Fitbit Versa Smartwatch 2020-08-10 Cancellation request Product setup ive forgotten my password for my fitbit versa s..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:00",
+    "result": {
+      "ticket_id": "TKT-20F5F8EE",
+      "issue": "8394 Jennifer Cole palexander@example.org 43 Female Philips Hue Lights 2021-04-06 Refund request Payment issue im having an issue with the philips hue lights please assist click here to view my other products ive tried different settings and configurations on my philips hue lights but the issue persists Closed Whom perform quite pull trip two. Critical Email 2023-06-01 16:25:47 2023-06-01 06:22:47 4.0",
+      "intent": "refund",
+      "sentiment": "negative",
+      "urgency": "low",
+      "topic": "Refund",
+      "route_to": "senior_support",
+      "escalation_needed": true,
+      "draft_response": "I am sorry for the trouble. Please share your order ID and delivery date so we can check refund eligibility. Based on our policy, Issue: 8394 Jennifer Cole palexander@example.org 43 Female Philips Hue Lights 2021-04-06 Refund request Payment issue im having an issue with the philips hue lights please assist c..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:00",
+    "result": {
+      "ticket_id": "TKT-66B04D8F",
+      "issue": "8395 Steven Wright michaelmartinez@example.net 62 Female Lenovo ThinkPad 2020-02-14 Technical issue Product recommendation im having an issue with the lenovo thinkpad please assist you can check your product order status here ive recently updated the firmware of my lenovo thinkpad and the issue started happening afterward could it be related to the update Open High Email 3.0",
+      "intent": "shipping",
+      "sentiment": "negative",
+      "urgency": "low",
+      "topic": "Shipping",
+      "route_to": "senior_support",
+      "escalation_needed": true,
+      "draft_response": "I am sorry for the trouble. Please share your order ID so we can check the latest tracking status. Based on our policy, Issue: 8395 Steven Wright michaelmartinez@example.net 62 Female Lenovo ThinkPad 2020-02-14 Technical issue Product recommendation im having an issue with the lenovo thinkpad please..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:01",
+    "result": {
+      "ticket_id": "TKT-62199441",
+      "issue": "8396 Patricia Shannon sullivannicholas@example.net 25 Female Sony Xperia 2021-10-12 Product inquiry Installation support im having an issue with the sony xperia please assist if i do not receive the product to the listed price i will contact my credit card company to check if they will return the product and i may be ive checked for software updates and my sony xperia is already running the latest version Pending Customer Response Medium Phone 2023-06-01 06:52:49 3.0",
+      "intent": "refund",
+      "sentiment": "negative",
+      "urgency": "low",
+      "topic": "Refund",
+      "route_to": "senior_support",
+      "escalation_needed": true,
+      "draft_response": "I am sorry for the trouble. Please share your order ID and delivery date so we can check refund eligibility. Based on our policy, Issue: 8396 Patricia Shannon sullivannicholas@example.net 25 Female Sony Xperia 2021-10-12 Product inquiry Installation support im having an issue with the sony xperia please assis..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:01",
+    "result": {
+      "ticket_id": "TKT-3D9AED70",
+      "issue": "8397 Shawna Webb MD terri34@example.net 21 Other Fitbit Charge 2020-03-16 Product inquiry Installation support im having an issue with the fitbit charge please assist productpurchased name microsoft kinect price 40 brand ive tried using different cables adapters or peripherals with my fitbit charge but the issue persists Closed Party attack account day third. Critical Social media 2023-06-01 10:28:51 2023-06-01 01:30:51 3.0",
+      "intent": "account",
+      "sentiment": "neutral",
+      "urgency": "low",
+      "topic": "Account",
+      "route_to": "account_support",
+      "escalation_needed": false,
+      "draft_response": "Thanks for contacting support. Please confirm the registered email address so we can help with account access. Based on our policy, Issue: 8397 Shawna Webb MD terri34@example.net 21 Other Fitbit Charge 2020-03-16 Product inquiry Installation support im having an issue with the fitbit charge please assist produc..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:02",
+    "result": {
+      "ticket_id": "TKT-9DDD9947",
+      "issue": "8398 Richard Mccarthy xbailey@example.com 59 Female Dell XPS 2020-07-17 Cancellation request Cancellation request im having an issue with the dell xps please assist the issue im facing is intermittent sometimes it works fine but other times it acts up unexpectedly Closed Because individual section grow. Medium Email 2023-06-01 06:30:51 2023-06-01 15:11:51 2.0",
+      "intent": "account",
+      "sentiment": "negative",
+      "urgency": "low",
+      "topic": "Account",
+      "route_to": "senior_support",
+      "escalation_needed": true,
+      "draft_response": "I am sorry for the trouble. Please confirm the registered email address so we can help with account access. Based on our policy, Issue: 8398 Richard Mccarthy xbailey@example.com 59 Female Dell XPS 2020-07-17 Cancellation request Cancellation request im having an issue with the dell xps please assist the issu..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:02",
+    "result": {
+      "ticket_id": "TKT-F413CF46",
+      "issue": "8399 Adam Dennis eholmes@example.com 50 Other Nintendo Switch Pro Controller 2021-08-15 Refund request Data loss im having an issue with the nintendo switch pro controller please assist productpurchased im unable to find the option to perform the desired action in the nintendo switch pro controller could you please guide me through the steps Closed Care herself pull others about cover reflect there. Low Chat 2023-06-01 14:30:53 2023-06-01 06:23:53 1.0",
+      "intent": "refund",
+      "sentiment": "negative",
+      "urgency": "low",
+      "topic": "Refund",
+      "route_to": "senior_support",
+      "escalation_needed": true,
+      "draft_response": "I am sorry for the trouble. Please share your order ID and delivery date so we can check refund eligibility. Based on our policy, Issue: 8399 Adam Dennis eholmes@example.com 50 Other Nintendo Switch Pro Controller 2021-08-15 Refund request Data loss im having an issue with the nintendo switch pro controller p..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:03",
+    "result": {
+      "ticket_id": "TKT-A1B15220",
+      "issue": "8400 Marco Esparza ewhite@example.net 57 Female Amazon Echo 2020-04-22 Billing inquiry Installation support im encountering a software bug in the amazon echo whenever i try to perform a specific action the application crashes are there any updates or fixes available in the past its used as a way to create a this problem started occurring after the recent software update i havent made any other changes to the device Pending Customer Response High Phone 2023-06-01 03:00:54 3.0",
+      "intent": "general support",
+      "sentiment": "neutral",
+      "urgency": "low",
+      "topic": "General Support",
+      "route_to": "general_support",
+      "escalation_needed": false,
+      "draft_response": "Thanks for contacting support. Please share the order ID and any extra details so we can investigate. Based on our policy, Issue: 8400 Marco Esparza ewhite@example.net 57 Female Amazon Echo 2020-04-22 Billing inquiry Installation support im encountering a software bug in the amazon echo whenever i try ..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:03",
+    "result": {
+      "ticket_id": "TKT-0ED75BAA",
+      "issue": "8401 Janet Chan kyle65@example.com 68 Female Fitbit Versa Smartwatch 2021-07-16 Cancellation request Network problem im having an issue with the fitbit versa smartwatch please assist i have another package which contains ajsp file in my userjson folder and the code it does nothing i need assistance as soon as possible because its affecting my work and productivity Closed Event husband water decision. Critical Email 2023-06-01 17:29:56 2023-06-01 23:30:56 2.0",
+      "intent": "shipping",
+      "sentiment": "negative",
+      "urgency": "medium",
+      "topic": "Shipping",
+      "route_to": "senior_support",
+      "escalation_needed": true,
+      "draft_response": "I am sorry for the trouble. Please share your order ID so we can check the latest tracking status. Based on our policy, Issue: 8401 Janet Chan kyle65@example.com 68 Female Fitbit Versa Smartwatch 2021-07-16 Cancellation request Network problem im having an issue with the fitbit versa smartwatch plea..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:04",
+    "result": {
+      "ticket_id": "TKT-73F0F5A9",
+      "issue": "8402 Melissa Padilla nparsons@example.net 47 Female Apple AirPods 2021-03-10 Product inquiry Installation support im having an issue with the apple airpods please assist thank you ive performed a factory reset on my apple airpods hoping it would resolve the problem but it didnt help Pending Customer Response Low Phone 2023-06-01 09:02:56 3.0",
+      "intent": "general support",
+      "sentiment": "positive",
+      "urgency": "low",
+      "topic": "General Support",
+      "route_to": "general_support",
+      "escalation_needed": false,
+      "draft_response": "Thanks for contacting support. Please share the order ID and any extra details so we can investigate. Based on our policy, Issue: 8402 Melissa Padilla nparsons@example.net 47 Female Apple AirPods 2021-03-10 Product inquiry Installation support im having an issue with the apple airpods please assist tha..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:04",
+    "result": {
+      "ticket_id": "TKT-B2B6ADC6",
+      "issue": "8403 Mario Palmer patriciamartinez@example.org 58 Other Google Nest 2021-01-07 Technical issue Data loss im having an issue with the google nest please assist 6 please also support this issue in sometouch or droid with your feedback i need assistance as soon as possible because its affecting my work and productivity Pending Customer Response Low Chat 2023-06-01 04:01:58 3.0",
+      "intent": "general support",
+      "sentiment": "neutral",
+      "urgency": "medium",
+      "topic": "General Support",
+      "route_to": "general_support",
+      "escalation_needed": false,
+      "draft_response": "Thanks for contacting support. Please share the order ID and any extra details so we can investigate. Based on our policy, Issue: 8403 Mario Palmer patriciamartinez@example.org 58 Other Google Nest 2021-01-07 Technical issue Data loss im having an issue with the google nest please assist 6 please also ..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:05",
+    "result": {
+      "ticket_id": "TKT-628E4E02",
+      "issue": "8404 Michael Brooks raymond70@example.org 70 Female HP Pavilion 2020-02-14 Billing inquiry Installation support im unable to access my hp pavilion account it keeps displaying an invalid credentials error even though im using the correct login information how can i regain access to my account the following command tries ive recently updated the firmware of my hp pavilion and the issue started happening afterward could it be related to the update Open Medium Email 3.0",
+      "intent": "account",
+      "sentiment": "negative",
+      "urgency": "low",
+      "topic": "Account",
+      "route_to": "senior_support",
+      "escalation_needed": true,
+      "draft_response": "I am sorry for the trouble. Please confirm the registered email address so we can help with account access. Based on our policy, Issue: 8404 Michael Brooks raymond70@example.org 70 Female HP Pavilion 2020-02-14 Billing inquiry Installation support im unable to access my hp pavilion account it keeps displayin..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:05",
+    "result": {
+      "ticket_id": "TKT-EC1E054E",
+      "issue": "8405 Stephen White MD xmoore@example.com 33 Female GoPro Hero 2020-05-31 Refund request Delivery problem im having an issue with the gopro hero please assist ill call you back at the earliest opportunity that i can preferably after ive received the item in effect since march 1st of this year this problem started occurring after the recent software update i havent made any other changes to the device Pending Customer Response Low Social media 2023-06-01 12:47:00 3.0",
+      "intent": "refund",
+      "sentiment": "negative",
+      "urgency": "low",
+      "topic": "Refund",
+      "route_to": "senior_support",
+      "escalation_needed": true,
+      "draft_response": "I am sorry for the trouble. Please share your order ID and delivery date so we can check refund eligibility. Based on our policy, Issue: 8405 Stephen White MD xmoore@example.com 33 Female GoPro Hero 2020-05-31 Refund request Delivery problem im having an issue with the gopro hero please assist ill call you ba..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:06",
+    "result": {
+      "ticket_id": "TKT-7269735E",
+      "issue": "8406 George Smith lisa97@example.net 65 Other Canon DSLR Camera 2021-09-20 Cancellation request Installation support im having an issue with the canon dslr camera please assist click here to see whats available im unable to find the option to perform the desired action in the canon dslr camera could you please guide me through the steps Open Medium Social media 3.0",
+      "intent": "general support",
+      "sentiment": "negative",
+      "urgency": "low",
+      "topic": "General Support",
+      "route_to": "senior_support",
+      "escalation_needed": true,
+      "draft_response": "I am sorry for the trouble. Please share the order ID and any extra details so we can investigate. Based on our policy, Issue: 8406 George Smith lisa97@example.net 65 Other Canon DSLR Camera 2021-09-20 Cancellation request Installation support im having an issue with the canon dslr camera please ass..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:06",
+    "result": {
+      "ticket_id": "TKT-6332F19F",
+      "issue": "8407 Tyler Obrien tammymoss@example.org 69 Male Adobe Photoshop 2020-05-26 Refund request Cancellation request im having an issue with the adobe photoshop please assist 352 weve added support for json to your site 351 fixed issues that might come up for you im concerned about the security of my adobe photoshop and would like to ensure that my data is safe Open Low Email 3.0",
+      "intent": "refund",
+      "sentiment": "negative",
+      "urgency": "low",
+      "topic": "Refund",
+      "route_to": "senior_support",
+      "escalation_needed": true,
+      "draft_response": "I am sorry for the trouble. Please share your order ID and delivery date so we can check refund eligibility. Based on our policy, Issue: 8407 Tyler Obrien tammymoss@example.org 69 Male Adobe Photoshop 2020-05-26 Refund request Cancellation request im having an issue with the adobe photoshop please assist 352 ..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:07",
+    "result": {
+      "ticket_id": "TKT-02772429",
+      "issue": "8408 Jennifer Cooper francis23@example.org 60 Other Garmin Forerunner 2021-11-16 Refund request Hardware issue im having an issue with the garmin forerunner please assist my name is justin im a photographer in 2011 my son was diagnosed with posttraumatic stress disorder and was frighteningly in fear of losing his job ive tried clearing the cache and data for the garmin forerunner app but the issue persists Pending Customer Response Medium Phone 2023-06-01 07:47:04 3.0",
+      "intent": "refund",
+      "sentiment": "negative",
+      "urgency": "low",
+      "topic": "Refund",
+      "route_to": "senior_support",
+      "escalation_needed": true,
+      "draft_response": "I am sorry for the trouble. Please share your order ID and delivery date so we can check refund eligibility. Based on our policy, Issue: 8408 Jennifer Cooper francis23@example.org 60 Other Garmin Forerunner 2021-11-16 Refund request Hardware issue im having an issue with the garmin forerunner please assist my..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:07",
+    "result": {
+      "ticket_id": "TKT-4C9297A5",
+      "issue": "8409 Michelle Medina jacobkim@example.net 52 Male Fitbit Charge 2021-01-19 Cancellation request Battery life im having an issue with the fitbit charge please assist mg mgeogar september 21 2014 when you say what about my purchase from me the company might respond ive recently updated the firmware of my fitbit charge and the issue started happening afterward could it be related to the update Open Medium Social media 3.0",
+      "intent": "shipping",
+      "sentiment": "negative",
+      "urgency": "low",
+      "topic": "Shipping",
+      "route_to": "senior_support",
+      "escalation_needed": true,
+      "draft_response": "I am sorry for the trouble. Please share your order ID so we can check the latest tracking status. Based on our policy, Issue: 8409 Michelle Medina jacobkim@example.net 52 Male Fitbit Charge 2021-01-19 Cancellation request Battery life im having an issue with the fitbit charge please assist mg mgeog..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:08",
+    "result": {
+      "ticket_id": "TKT-A6181E78",
+      "issue": "8410 Samuel Beard howardsean@example.com 25 Other Asus ROG 2020-09-28 Billing inquiry Delivery problem im having an issue with the asus rog please assist in the next update we will include that information for all of our users thank you for your involvement we would like to thank all our customers for im unable to find the option to perform the desired action in the asus rog could you please guide me through the steps Open High Email 3.0",
+      "intent": "shipping",
+      "sentiment": "positive",
+      "urgency": "low",
+      "topic": "Shipping",
+      "route_to": "logistics_team",
+      "escalation_needed": false,
+      "draft_response": "Thanks for contacting support. Please share your order ID so we can check the latest tracking status. Based on our policy, Issue: 8410 Samuel Beard howardsean@example.com 25 Other Asus ROG 2020-09-28 Billing inquiry Delivery problem im having an issue with the asus rog please assist in the next update ..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:08",
+    "result": {
+      "ticket_id": "TKT-EB5EB0EC",
+      "issue": "8411 Charlene Roth jasonharris@example.net 31 Female Bose SoundLink Speaker 2020-06-08 Billing inquiry Peripheral compatibility my bose soundlink speaker is making strange noises and not functioning properly i suspect there might be a hardware issue can you please help me with this hi bud the machine ive installed isnt working ive tried troubleshooting steps mentioned in the user manual but the issue persists Open High Chat 3.0",
+      "intent": "general support",
+      "sentiment": "neutral",
+      "urgency": "low",
+      "topic": "General Support",
+      "route_to": "general_support",
+      "escalation_needed": false,
+      "draft_response": "Thanks for contacting support. Please share the order ID and any extra details so we can investigate. Based on our policy, Issue: 8411 Charlene Roth jasonharris@example.net 31 Female Bose SoundLink Speaker 2020-06-08 Billing inquiry Peripheral compatibility my bose soundlink speaker is making strange n..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:09",
+    "result": {
+      "ticket_id": "TKT-35F50CF2",
+      "issue": "8412 John Larson kristiesmith@example.org 67 Male Roomba Robot Vacuum 2021-05-15 Refund request Hardware issue im having an issue with the roomba robot vacuum please assist your browser does not support javascript for this article please install it yourself the issue im facing is intermittent sometimes it works fine but other times it acts up unexpectedly Closed Manager put north fight game national serve. High Phone 2023-06-01 19:53:10 2023-06-01 22:10:10 1.0",
+      "intent": "refund",
+      "sentiment": "negative",
+      "urgency": "high",
+      "topic": "Refund",
+      "route_to": "senior_support",
+      "escalation_needed": true,
+      "draft_response": "I am sorry for the trouble. Please share your order ID and delivery date so we can check refund eligibility. Based on our policy, Issue: 8412 John Larson kristiesmith@example.org 67 Male Roomba Robot Vacuum 2021-05-15 Refund request Hardware issue im having an issue with the roomba robot vacuum please assist ... I am also routing this for priority review."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:09",
+    "result": {
+      "ticket_id": "TKT-6E697F4D",
+      "issue": "8413 Roberto Harvey wesley80@example.org 39 Other Sony 4K HDR TV 2021-05-15 Billing inquiry Payment issue im having an issue with the sony 4k hdr tv please assist it is worth noting that for the product purchased directly from the customer you might be charged a fee which is subject to change i have ive already contacted customer support multiple times but the issue remains unresolved Open Low Social media 3.0",
+      "intent": "billing",
+      "sentiment": "positive",
+      "urgency": "low",
+      "topic": "Billing",
+      "route_to": "billing_team",
+      "escalation_needed": false,
+      "draft_response": "Thanks for contacting support. Please share the invoice or transaction ID so we can review the charge. Based on our policy, Issue: 8413 Roberto Harvey wesley80@example.org 39 Other Sony 4K HDR TV 2021-05-15 Billing inquiry Payment issue im having an issue with the sony 4k hdr tv please assist it is wort..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:10",
+    "result": {
+      "ticket_id": "TKT-D18700B7",
+      "issue": "8414 Frank Serrano lisaserrano@example.net 54 Female Samsung Soundbar 2021-07-10 Cancellation request Data loss there seems to be a hardware problem with my samsung soundbar the screen is flickering and im unable to use it what should i do 2 change the settings to be less fainting or flicker ive tried troubleshooting steps mentioned in the user manual but the issue persists Open Critical Phone 3.0",
+      "intent": "general support",
+      "sentiment": "negative",
+      "urgency": "low",
+      "topic": "General Support",
+      "route_to": "senior_support",
+      "escalation_needed": true,
+      "draft_response": "I am sorry for the trouble. Please share the order ID and any extra details so we can investigate. Based on our policy, Issue: 8414 Frank Serrano lisaserrano@example.net 54 Female Samsung Soundbar 2021-07-10 Cancellation request Data loss there seems to be a hardware problem with my samsung soundbar..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:10",
+    "result": {
+      "ticket_id": "TKT-EE9DD1D1",
+      "issue": "8415 Phillip Griffin harold99@example.com 29 Male Microsoft Office 2020-02-26 Cancellation request Delivery problem im having an issue with the microsoft office please assist thanks giorgio gio nuvo the original nuo was frozen and the great gatsby ive tried troubleshooting steps mentioned in the user manual but the issue persists Closed Song truth cultural audience trouble American. High Email 2023-06-01 09:22:15 2023-06-01 11:33:15 2.0",
+      "intent": "shipping",
+      "sentiment": "positive",
+      "urgency": "low",
+      "topic": "Shipping",
+      "route_to": "logistics_team",
+      "escalation_needed": false,
+      "draft_response": "Thanks for contacting support. Please share your order ID so we can check the latest tracking status. Based on our policy, Issue: 8415 Phillip Griffin harold99@example.com 29 Male Microsoft Office 2020-02-26 Cancellation request Delivery problem im having an issue with the microsoft office please assis..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:11",
+    "result": {
+      "ticket_id": "TKT-07CD0D2A",
+      "issue": "8416 Erin Reed victorwhite@example.com 69 Female Xbox 2021-06-06 Billing inquiry Product setup ive noticed a software bug in the xbox app its causing data loss and unexpected errors how can i resolve this issue when you add a new app without changing the way its created the im experiencing this issue on multiple devices of the same model so it seems to be a widespread problem Pending Customer Response High Phone 2023-06-01 08:17:16 3.0",
+      "intent": "general support",
+      "sentiment": "neutral",
+      "urgency": "low",
+      "topic": "General Support",
+      "route_to": "general_support",
+      "escalation_needed": false,
+      "draft_response": "Thanks for contacting support. Please share the order ID and any extra details so we can investigate. Based on our policy, Issue: 8416 Erin Reed victorwhite@example.com 69 Female Xbox 2021-06-06 Billing inquiry Product setup ive noticed a software bug in the xbox app its causing data loss and unexpecte..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:11",
+    "result": {
+      "ticket_id": "TKT-F35495C6",
+      "issue": "8417 Mrs. Melissa Mullins pearsondawn@example.net 62 Male Fitbit Charge 2021-10-08 Product inquiry Account access im having an issue with the fitbit charge please assist span classnamepurchasingdetailsproductpurchasednamespanppyour productp ive already contacted customer support multiple times but the issue remains unresolved Open Medium Social media 3.0",
+      "intent": "account",
+      "sentiment": "positive",
+      "urgency": "low",
+      "topic": "Account",
+      "route_to": "account_support",
+      "escalation_needed": false,
+      "draft_response": "Thanks for contacting support. Please confirm the registered email address so we can help with account access. Based on our policy, Issue: 8417 Mrs. Melissa Mullins pearsondawn@example.net 62 Male Fitbit Charge 2021-10-08 Product inquiry Account access im having an issue with the fitbit charge please assist spa..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:12",
+    "result": {
+      "ticket_id": "TKT-37C9D56C",
+      "issue": "8418 Jamie Scott jenniferandrews@example.org 26 Other HP Pavilion 2021-01-25 Technical issue Peripheral compatibility ive recently set up my hp pavilion but it fails to connect to any available networks what steps should i take to troubleshoot this issue how can i troubleshoot a problem when running from im unable to find the option to perform the desired action in the hp pavilion could you please guide me through the steps Open High Social media 3.0",
+      "intent": "general support",
+      "sentiment": "neutral",
+      "urgency": "low",
+      "topic": "General Support",
+      "route_to": "general_support",
+      "escalation_needed": false,
+      "draft_response": "Thanks for contacting support. Please share the order ID and any extra details so we can investigate. Based on our policy, Issue: 8418 Jamie Scott jenniferandrews@example.org 26 Other HP Pavilion 2021-01-25 Technical issue Peripheral compatibility ive recently set up my hp pavilion but it fails to conn..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:12",
+    "result": {
+      "ticket_id": "TKT-01578241",
+      "issue": "8419 Ashley Soto michaelreed@example.net 45 Other Garmin Forerunner 2020-11-01 Technical issue Refund request ive recently set up my garmin forerunner but it fails to connect to any available networks what steps should i take to troubleshoot this issue for those of you that are using ubuntu 2410 you im concerned about the security of my garmin forerunner and would like to ensure that my data is safe Pending Customer Response Low Social media 2023-06-01 09:26:19 3.0",
+      "intent": "refund",
+      "sentiment": "negative",
+      "urgency": "low",
+      "topic": "Refund",
+      "route_to": "senior_support",
+      "escalation_needed": true,
+      "draft_response": "I am sorry for the trouble. Please share your order ID and delivery date so we can check refund eligibility. Based on our policy, Issue: 8419 Ashley Soto michaelreed@example.net 45 Other Garmin Forerunner 2020-11-01 Technical issue Refund request ive recently set up my garmin forerunner but it fails to connec..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:13",
+    "result": {
+      "ticket_id": "TKT-0A591860",
+      "issue": "8420 Austin Lee andrewallen@example.com 29 Male Autodesk AutoCAD 2021-08-24 Product inquiry Refund request im having an issue with the autodesk autocad please assist the item you are looking for has no matching item and is not currently available sorry that item could have been acquired in another slot please ive tried clearing the cache and data for the autodesk autocad app but the issue persists Closed Civil other course nature. Medium Chat 2023-06-01 15:40:21 2023-06-01 06:19:21 3.0",
+      "intent": "refund",
+      "sentiment": "negative",
+      "urgency": "low",
+      "topic": "Refund",
+      "route_to": "senior_support",
+      "escalation_needed": true,
+      "draft_response": "I am sorry for the trouble. Please share your order ID and delivery date so we can check refund eligibility. Based on our policy, Issue: 8420 Austin Lee andrewallen@example.com 29 Male Autodesk AutoCAD 2021-08-24 Product inquiry Refund request im having an issue with the autodesk autocad please assist the ite..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:13",
+    "result": {
+      "ticket_id": "TKT-992A7530",
+      "issue": "8421 Andrew Smith coxbrandon@example.org 41 Female Xbox 2021-03-05 Technical issue Installation support im having an issue with the xbox please assist i can not receive any compensation you see this message please assist i can not accept payment you see this message please assist ive checked for software updates and my xbox is already running the latest version Closed Hot property or start. Medium Phone 2023-06-01 02:15:23 2023-06-01 01:37:23 5.0",
+      "intent": "shipping",
+      "sentiment": "negative",
+      "urgency": "low",
+      "topic": "Shipping",
+      "route_to": "senior_support",
+      "escalation_needed": true,
+      "draft_response": "I am sorry for the trouble. Please share your order ID so we can check the latest tracking status. Based on our policy, Issue: 8421 Andrew Smith coxbrandon@example.org 41 Female Xbox 2021-03-05 Technical issue Installation support im having an issue with the xbox please assist i can not receive any ..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:14",
+    "result": {
+      "ticket_id": "TKT-D2623CD9",
+      "issue": "8422 Leah Davis chenrebecca@example.net 47 Male Bose QuietComfort 2021-03-18 Technical issue Cancellation request my bose quietcomfort crashed and i lost all the data stored on it is there any way to recover the lost data it still doesnt explain why i got the error my productpurchased ive noticed a peculiar error message popping up on my bose quietcomfort screen it says errormessage what does it mean Open Low Social media 3.0",
+      "intent": "general support",
+      "sentiment": "negative",
+      "urgency": "medium",
+      "topic": "General Support",
+      "route_to": "senior_support",
+      "escalation_needed": true,
+      "draft_response": "I am sorry for the trouble. Please share the order ID and any extra details so we can investigate. Based on our policy, Issue: 8422 Leah Davis chenrebecca@example.net 47 Male Bose QuietComfort 2021-03-18 Technical issue Cancellation request my bose quietcomfort crashed and i lost all the data stored..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:14",
+    "result": {
+      "ticket_id": "TKT-622191B3",
+      "issue": "8423 Andrew Taylor ylarson@example.org 32 Female Fitbit Charge 2020-12-05 Cancellation request Product recommendation im facing a problem with my fitbit charge the fitbit charge is not turning on it was working fine until yesterday but now it doesnt respond as a test i went into my computer i need assistance as soon as possible because its affecting my work and productivity Pending Customer Response High Chat 2023-06-01 06:46:24 3.0",
+      "intent": "general support",
+      "sentiment": "negative",
+      "urgency": "medium",
+      "topic": "General Support",
+      "route_to": "senior_support",
+      "escalation_needed": true,
+      "draft_response": "I am sorry for the trouble. Please share the order ID and any extra details so we can investigate. Based on our policy, Issue: 8423 Andrew Taylor ylarson@example.org 32 Female Fitbit Charge 2020-12-05 Cancellation request Product recommendation im facing a problem with my fitbit charge the fitbit ch..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:15",
+    "result": {
+      "ticket_id": "TKT-958AA382",
+      "issue": "8424 Heidi Ware charles20@example.net 36 Female Microsoft Surface 2021-11-28 Billing inquiry Payment issue im having an issue with the microsoft surface please assist productpurchased div div for each of the 2 items the product is now available in the selected inventory ive reviewed the troubleshooting steps on the official support website but they didnt resolve the problem Closed Later generation down one still play. Medium Phone 2023-06-01 12:57:26 2023-06-01 23:05:26 2.0",
+      "intent": "shipping",
+      "sentiment": "negative",
+      "urgency": "medium",
+      "topic": "Shipping",
+      "route_to": "senior_support",
+      "escalation_needed": true,
+      "draft_response": "I am sorry for the trouble. Please share your order ID so we can check the latest tracking status. Based on our policy, Issue: 8424 Heidi Ware charles20@example.net 36 Female Microsoft Surface 2021-11-28 Billing inquiry Payment issue im having an issue with the microsoft surface please assist produc..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:16",
+    "result": {
+      "ticket_id": "TKT-9AC6C2D7",
+      "issue": "8425 Dawn Randolph christianfreeman@example.net 59 Female iPhone 2020-10-16 Cancellation request Software bug im having an issue with the iphone please assist what is the difference between cvs and other pharmacies cvss name means cure or safe most hospitals and clinics will this problem started occurring after the recent software update i havent made any other changes to the device Pending Customer Response Critical Email 2023-06-01 02:47:28 3.0",
+      "intent": "account",
+      "sentiment": "negative",
+      "urgency": "low",
+      "topic": "Account",
+      "route_to": "senior_support",
+      "escalation_needed": true,
+      "draft_response": "I am sorry for the trouble. Please confirm the registered email address so we can help with account access. Based on our policy, Issue: 8425 Dawn Randolph christianfreeman@example.net 59 Female iPhone 2020-10-16 Cancellation request Software bug im having an issue with the iphone please assist what is the di..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:16",
+    "result": {
+      "ticket_id": "TKT-D67A1B50",
+      "issue": "8426 Ricardo Gonzalez ambersmith@example.com 43 Other Garmin Forerunner 2020-08-19 Technical issue Refund request im having an issue with the garmin forerunner please assist just trying to figure out what to do i have another headache because the next hour is pretty far away said tana she added im unable to find the option to perform the desired action in the garmin forerunner could you please guide me through the steps Open High Chat 3.0",
+      "intent": "refund",
+      "sentiment": "negative",
+      "urgency": "low",
+      "topic": "Refund",
+      "route_to": "senior_support",
+      "escalation_needed": true,
+      "draft_response": "I am sorry for the trouble. Please share your order ID and delivery date so we can check refund eligibility. Based on our policy, Issue: 8426 Ricardo Gonzalez ambersmith@example.com 43 Other Garmin Forerunner 2020-08-19 Technical issue Refund request im having an issue with the garmin forerunner please assist..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:17",
+    "result": {
+      "ticket_id": "TKT-BA5841C3",
+      "issue": "8427 Mary Elliott tiffanycarey@example.com 60 Female Roomba Robot Vacuum 2020-09-14 Refund request Data loss im having trouble connecting my roomba robot vacuum to my home wifi network it doesnt detect any networks although other devices are connecting fine what can be done to resolve this issue if you haven ive already contacted customer support multiple times but the issue remains unresolved Closed Rule role whatever nearly compare evidence while. Critical Phone 2023-06-01 06:18:31 2023-06-01 13:28:31 3.0",
+      "intent": "refund",
+      "sentiment": "neutral",
+      "urgency": "low",
+      "topic": "Refund",
+      "route_to": "refund_team",
+      "escalation_needed": false,
+      "draft_response": "Thanks for contacting support. Please share your order ID and delivery date so we can check refund eligibility. Based on our policy, Issue: 8427 Mary Elliott tiffanycarey@example.com 60 Female Roomba Robot Vacuum 2020-09-14 Refund request Data loss im having trouble connecting my roomba robot vacuum to my home w..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:17",
+    "result": {
+      "ticket_id": "TKT-1E65D862",
+      "issue": "8428 John Hensley vincentangelica@example.net 24 Other Amazon Echo 2021-04-18 Refund request Refund request im having an issue with the amazon echo please assist if youre unsure about the value of your item click submit with your purchase details including your name and your names email address ive tried using different cables adapters or peripherals with my amazon echo but the issue persists Closed Important get include establish decision. Medium Email 2023-06-01 12:01:33 2023-06-02 00:55:33 3.0",
+      "intent": "refund",
+      "sentiment": "negative",
+      "urgency": "low",
+      "topic": "Refund",
+      "route_to": "senior_support",
+      "escalation_needed": true,
+      "draft_response": "I am sorry for the trouble. Please share your order ID and delivery date so we can check refund eligibility. Based on our policy, Issue: 8428 John Hensley vincentangelica@example.net 24 Other Amazon Echo 2021-04-18 Refund request Refund request im having an issue with the amazon echo please assist if youre un..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:18",
+    "result": {
+      "ticket_id": "TKT-19552769",
+      "issue": "8429 Shelby Macdonald fieldstony@example.org 35 Female Philips Hue Lights 2021-06-24 Technical issue Display issue im having trouble connecting my philips hue lights to my home wifi network it doesnt detect any networks although other devices are connecting fine what can be done to resolve this issue graft one device over another if ive recently updated the firmware of my philips hue lights and the issue started happening afterward could it be related to the update Open Low Email 3.0",
+      "intent": "shipping",
+      "sentiment": "negative",
+      "urgency": "low",
+      "topic": "Shipping",
+      "route_to": "senior_support",
+      "escalation_needed": true,
+      "draft_response": "I am sorry for the trouble. Please share your order ID so we can check the latest tracking status. Based on our policy, Issue: 8429 Shelby Macdonald fieldstony@example.org 35 Female Philips Hue Lights 2021-06-24 Technical issue Display issue im having trouble connecting my philips hue lights to my h..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:18",
+    "result": {
+      "ticket_id": "TKT-058AF6F1",
+      "issue": "8430 Amy Atkins oprice@example.net 56 Female Sony Xperia 2020-04-17 Refund request Product setup im having an issue with the sony xperia please assist im experiencing an issue like this i have an issue on a product so i just tried the app and it seems the product is stuck in the app ive followed the troubleshooting steps mentioned in the user manual but the issue persists Open High Phone 3.0",
+      "intent": "refund",
+      "sentiment": "negative",
+      "urgency": "low",
+      "topic": "Refund",
+      "route_to": "senior_support",
+      "escalation_needed": true,
+      "draft_response": "I am sorry for the trouble. Please share your order ID and delivery date so we can check refund eligibility. Based on our policy, Issue: 8430 Amy Atkins oprice@example.net 56 Female Sony Xperia 2020-04-17 Refund request Product setup im having an issue with the sony xperia please assist im experiencing an iss..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:19",
+    "result": {
+      "ticket_id": "TKT-898F2FF3",
+      "issue": "8431 Joshua Villanueva johnny34@example.org 63 Female Google Pixel 2021-05-11 Billing inquiry Software bug my google pixel crashed and i lost all the data stored on it is there any way to recover the lost data i dont have a problem with getting a specific package name i can use any package ive tried using different cables adapters or peripherals with my google pixel but the issue persists Closed Contain drop professor. Low Chat 2023-06-01 13:03:36 2023-06-01 17:16:36 2.0",
+      "intent": "shipping",
+      "sentiment": "negative",
+      "urgency": "low",
+      "topic": "Shipping",
+      "route_to": "senior_support",
+      "escalation_needed": true,
+      "draft_response": "I am sorry for the trouble. Please share your order ID so we can check the latest tracking status. Based on our policy, Issue: 8431 Joshua Villanueva johnny34@example.org 63 Female Google Pixel 2021-05-11 Billing inquiry Software bug my google pixel crashed and i lost all the data stored on it is th..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:19",
+    "result": {
+      "ticket_id": "TKT-CEF68415",
+      "issue": "8432 Amy Gross jhunter@example.org 56 Other Nest Thermostat 2021-02-09 Technical issue Display issue there seems to be a hardware problem with my nest thermostat the screen is flickering and im unable to use it what should i do the main thing to do is to remove the screen and turn off all the external i rely heavily on my nest thermostat for my daily tasks and this issue is hindering my productivity Open Low Chat 3.0",
+      "intent": "general support",
+      "sentiment": "neutral",
+      "urgency": "low",
+      "topic": "General Support",
+      "route_to": "general_support",
+      "escalation_needed": false,
+      "draft_response": "Thanks for contacting support. Please share the order ID and any extra details so we can investigate. Based on our policy, Issue: 8432 Amy Gross jhunter@example.org 56 Other Nest Thermostat 2021-02-09 Technical issue Display issue there seems to be a hardware problem with my nest thermostat the screen ..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:20",
+    "result": {
+      "ticket_id": "TKT-F06408A3",
+      "issue": "8433 Yolanda Miller robertramirez@example.com 70 Male Nintendo Switch 2020-01-22 Billing inquiry Network problem there seems to be a glitch in the nintendo switch software it freezes frequently making it difficult to use can you please provide a solution thank you for your time ps please keep ive checked for software updates and my nintendo switch is already running the latest version Closed Off budget pull nearly. Critical Chat 2023-06-01 07:25:38 2023-06-01 15:47:38 3.0",
+      "intent": "shipping",
+      "sentiment": "neutral",
+      "urgency": "low",
+      "topic": "Shipping",
+      "route_to": "logistics_team",
+      "escalation_needed": false,
+      "draft_response": "Thanks for contacting support. Please share your order ID so we can check the latest tracking status. Based on our policy, Issue: 8433 Yolanda Miller robertramirez@example.com 70 Male Nintendo Switch 2020-01-22 Billing inquiry Network problem there seems to be a glitch in the nintendo switch software i..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:20",
+    "result": {
+      "ticket_id": "TKT-2801A855",
+      "issue": "8434 Courtney Carter morganwashington@example.com 65 Other Bose QuietComfort 2020-02-03 Cancellation request Installation support im having an issue with the bose quietcomfort please assist as with all this were giving away a free 100 1 x marks giveaway is open till 8pm pst 122 im worried that the issue might be hardwarerelated and might require repair or replacement Open Medium Chat 3.0",
+      "intent": "shipping",
+      "sentiment": "negative",
+      "urgency": "low",
+      "topic": "Shipping",
+      "route_to": "senior_support",
+      "escalation_needed": true,
+      "draft_response": "I am sorry for the trouble. Please share your order ID so we can check the latest tracking status. Based on our policy, Issue: 8434 Courtney Carter morganwashington@example.com 65 Other Bose QuietComfort 2020-02-03 Cancellation request Installation support im having an issue with the bose quietcomfo..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:21",
+    "result": {
+      "ticket_id": "TKT-C161C365",
+      "issue": "8435 Cristina Potter dnunez@example.org 50 Female GoPro Hero 2020-02-03 Technical issue Installation support im having an issue with the gopro hero please assist if this isnt the firstocating a copy of a nonworking product please let us know as soon as possible the only solution we have to ive noticed that the issue occurs consistently when i use a specific feature or application on my gopro hero Closed Bad administration prepare experience fall affect information. Critical Email 2023-06-01 23:39:42 2023-06-01 08:59:42 4.0",
+      "intent": "account",
+      "sentiment": "negative",
+      "urgency": "medium",
+      "topic": "Account",
+      "route_to": "senior_support",
+      "escalation_needed": true,
+      "draft_response": "I am sorry for the trouble. Please confirm the registered email address so we can help with account access. Based on our policy, Issue: 8435 Cristina Potter dnunez@example.org 50 Female GoPro Hero 2020-02-03 Technical issue Installation support im having an issue with the gopro hero please assist if this isn..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:21",
+    "result": {
+      "ticket_id": "TKT-9626EDF9",
+      "issue": "8436 Brandi Willis tayloralison@example.com 69 Female Sony 4K HDR TV 2021-09-25 Refund request Display issue im facing a problem with my sony 4k hdr tv the sony 4k hdr tv is not turning on it was working fine until yesterday but now it doesnt respond lets try the solution i this problem started occurring after the recent software update i havent made any other changes to the device Closed Mind ask amount huge late. High Chat 2023-06-01 23:30:42 2023-06-02 00:16:42 1.0",
+      "intent": "refund",
+      "sentiment": "negative",
+      "urgency": "low",
+      "topic": "Refund",
+      "route_to": "senior_support",
+      "escalation_needed": true,
+      "draft_response": "I am sorry for the trouble. Please share your order ID and delivery date so we can check refund eligibility. Based on our policy, Issue: 8436 Brandi Willis tayloralison@example.com 69 Female Sony 4K HDR TV 2021-09-25 Refund request Display issue im facing a problem with my sony 4k hdr tv the sony 4k hdr tv is..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:22",
+    "result": {
+      "ticket_id": "TKT-555C42DE",
+      "issue": "8437 Rhonda Green haleymitchell@example.net 59 Female Lenovo ThinkPad 2020-09-01 Technical issue Payment issue im having an issue with the lenovo thinkpad please assist please add 1 to your checkout price if its only 499 itll sell out we do not want to keep outofdate im worried that the issue might be hardwarerelated and might require repair or replacement Pending Customer Response Critical Social media 2023-06-01 05:58:44 3.0",
+      "intent": "shipping",
+      "sentiment": "negative",
+      "urgency": "low",
+      "topic": "Shipping",
+      "route_to": "senior_support",
+      "escalation_needed": true,
+      "draft_response": "I am sorry for the trouble. Please share your order ID so we can check the latest tracking status. Based on our policy, Issue: 8437 Rhonda Green haleymitchell@example.net 59 Female Lenovo ThinkPad 2020-09-01 Technical issue Payment issue im having an issue with the lenovo thinkpad please assist plea..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:22",
+    "result": {
+      "ticket_id": "TKT-13118C73",
+      "issue": "8438 Robert Farley bryceshepherd@example.com 65 Female Dyson Vacuum Cleaner 2021-11-08 Product inquiry Peripheral compatibility im having an issue with the dyson vacuum cleaner please assist ive already contacted customer support multiple times but the issue remains unresolved Pending Customer Response High Email 2023-06-01 15:52:45 3.0",
+      "intent": "account",
+      "sentiment": "positive",
+      "urgency": "low",
+      "topic": "Account",
+      "route_to": "account_support",
+      "escalation_needed": false,
+      "draft_response": "Thanks for contacting support. Please confirm the registered email address so we can help with account access. Based on our policy, Issue: 8438 Robert Farley bryceshepherd@example.com 65 Female Dyson Vacuum Cleaner 2021-11-08 Product inquiry Peripheral compatibility im having an issue with the dyson vacuum clea..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:23",
+    "result": {
+      "ticket_id": "TKT-C653506B",
+      "issue": "8439 Andrea Bates kristinasherman@example.com 19 Other Garmin Forerunner 2020-12-18 Refund request Cancellation request ive noticed a software bug in the garmin forerunner app its causing data loss and unexpected errors how can i resolve this issue you should create a home file in your project folder you can do ive tried clearing the cache and data for the garmin forerunner app but the issue persists Pending Customer Response Critical Phone 2023-06-01 22:27:46 3.0",
+      "intent": "refund",
+      "sentiment": "negative",
+      "urgency": "low",
+      "topic": "Refund",
+      "route_to": "senior_support",
+      "escalation_needed": true,
+      "draft_response": "I am sorry for the trouble. Please share your order ID and delivery date so we can check refund eligibility. Based on our policy, Issue: 8439 Andrea Bates kristinasherman@example.com 19 Other Garmin Forerunner 2020-12-18 Refund request Cancellation request ive noticed a software bug in the garmin forerunner a..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:23",
+    "result": {
+      "ticket_id": "TKT-7AC453D9",
+      "issue": "8440 Christina Crane alyssaosborne@example.com 68 Male Garmin Forerunner 2021-08-21 Cancellation request Network problem im having an issue with the garmin forerunner please assist else return resource ive reviewed the troubleshooting steps on the official support website but they didnt resolve the problem Pending Customer Response High Phone 2023-06-01 23:49:47 3.0",
+      "intent": "refund",
+      "sentiment": "negative",
+      "urgency": "low",
+      "topic": "Refund",
+      "route_to": "senior_support",
+      "escalation_needed": true,
+      "draft_response": "I am sorry for the trouble. Please share your order ID and delivery date so we can check refund eligibility. Based on our policy, Issue: 8440 Christina Crane alyssaosborne@example.com 68 Male Garmin Forerunner 2021-08-21 Cancellation request Network problem im having an issue with the garmin forerunner please..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:24",
+    "result": {
+      "ticket_id": "TKT-80E4B0AA",
+      "issue": "8441 Margaret Ward martinaudrey@example.com 43 Female Autodesk AutoCAD 2020-04-23 Refund request Product compatibility im having an issue with the autodesk autocad please assist productpurchased this will allow you to buy the product at the time of checkout you wont need to contact any retailer product im worried that the issue might be hardwarerelated and might require repair or replacement Closed Space have anything party news. Low Chat 2023-06-01 20:17:48 2023-06-01 13:18:48 1.0",
+      "intent": "refund",
+      "sentiment": "negative",
+      "urgency": "low",
+      "topic": "Refund",
+      "route_to": "senior_support",
+      "escalation_needed": true,
+      "draft_response": "I am sorry for the trouble. Please share your order ID and delivery date so we can check refund eligibility. Based on our policy, Issue: 8441 Margaret Ward martinaudrey@example.com 43 Female Autodesk AutoCAD 2020-04-23 Refund request Product compatibility im having an issue with the autodesk autocad please as..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:25",
+    "result": {
+      "ticket_id": "TKT-822C2192",
+      "issue": "8442 Kari Christensen along@example.org 48 Other Samsung Galaxy 2020-02-11 Billing inquiry Delivery problem im encountering a software bug in the samsung galaxy whenever i try to perform a specific action the application crashes are there any updates or fixes available is the application compatible with other versions of apache any important configuration changes ive noticed a peculiar error message popping up on my samsung galaxy screen it says errormessage what does it mean Closed Democratic father exist billion. High Social media 2023-06-01 12:27:49 2023-06-01 11:35:49 3.0",
+      "intent": "shipping",
+      "sentiment": "neutral",
+      "urgency": "low",
+      "topic": "Shipping",
+      "route_to": "logistics_team",
+      "escalation_needed": false,
+      "draft_response": "Thanks for contacting support. Please share your order ID so we can check the latest tracking status. Based on our policy, Issue: 8442 Kari Christensen along@example.org 48 Other Samsung Galaxy 2020-02-11 Billing inquiry Delivery problem im encountering a software bug in the samsung galaxy whenever i t..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:25",
+    "result": {
+      "ticket_id": "TKT-55F2A8AB",
+      "issue": "8443 Jennifer King riggspatricia@example.net 37 Male GoPro Hero 2020-02-06 Billing inquiry Installation support ive accidentally deleted important data from my gopro hero is there any way to recover the deleted files i need them urgently thanks in advance i agree that my email address is valid but i cant find i need assistance as soon as possible because its affecting my work and productivity Pending Customer Response High Social media 2023-06-01 01:29:50 3.0",
+      "intent": "account",
+      "sentiment": "positive",
+      "urgency": "high",
+      "topic": "Account",
+      "route_to": "senior_support",
+      "escalation_needed": true,
+      "draft_response": "Thanks for contacting support. Please confirm the registered email address so we can help with account access. Based on our policy, Issue: 8443 Jennifer King riggspatricia@example.net 37 Male GoPro Hero 2020-02-06 Billing inquiry Installation support ive accidentally deleted important data from my gopro hero is... I am also routing this for priority review."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:26",
+    "result": {
+      "ticket_id": "TKT-49E0A114",
+      "issue": "8444 Michelle Silva christinasanchez@example.com 61 Female Philips Hue Lights 2020-02-26 Product inquiry Network problem ive accidentally deleted important data from my philips hue lights is there any way to recover the deleted files i need them urgently you are not logged in login sign in your account id the ive tried different settings and configurations on my philips hue lights but the issue persists Pending Customer Response High Chat 2023-06-01 19:44:51 3.0",
+      "intent": "account",
+      "sentiment": "neutral",
+      "urgency": "high",
+      "topic": "Account",
+      "route_to": "senior_support",
+      "escalation_needed": true,
+      "draft_response": "Thanks for contacting support. Please confirm the registered email address so we can help with account access. Based on our policy, Issue: 8444 Michelle Silva christinasanchez@example.com 61 Female Philips Hue Lights 2020-02-26 Product inquiry Network problem ive accidentally deleted important data from my phil... I am also routing this for priority review."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:26",
+    "result": {
+      "ticket_id": "TKT-68F33D8D",
+      "issue": "8445 Natasha Donovan hramirez@example.com 64 Other HP Pavilion 2021-02-02 Billing inquiry Product compatibility im having an issue with the hp pavilion please assist if its not in our price range and it wont let you charge your order at an drainage rate more than 8 1000 then ask for the issue im facing is intermittent sometimes it works fine but other times it acts up unexpectedly Open Medium Email 3.0",
+      "intent": "account",
+      "sentiment": "neutral",
+      "urgency": "low",
+      "topic": "Account",
+      "route_to": "account_support",
+      "escalation_needed": false,
+      "draft_response": "Thanks for contacting support. Please confirm the registered email address so we can help with account access. Based on our policy, Issue: 8445 Natasha Donovan hramirez@example.com 64 Other HP Pavilion 2021-02-02 Billing inquiry Product compatibility im having an issue with the hp pavilion please assist if its ..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:27",
+    "result": {
+      "ticket_id": "TKT-A1DFBAC7",
+      "issue": "8446 Debbie Buchanan martinnicholas@example.net 66 Male Nintendo Switch Pro Controller 2021-02-16 Refund request Payment issue im having an issue with the nintendo switch pro controller please assist q ive added 40000 in cash at the event i didnt know that would have happened because the company didnt release anything on ive checked for software updates and my nintendo switch pro controller is already running the latest version Open Critical Chat 3.0",
+      "intent": "refund",
+      "sentiment": "negative",
+      "urgency": "low",
+      "topic": "Refund",
+      "route_to": "senior_support",
+      "escalation_needed": true,
+      "draft_response": "I am sorry for the trouble. Please share your order ID and delivery date so we can check refund eligibility. Based on our policy, Issue: 8446 Debbie Buchanan martinnicholas@example.net 66 Male Nintendo Switch Pro Controller 2021-02-16 Refund request Payment issue im having an issue with the nintendo switch pr..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:27",
+    "result": {
+      "ticket_id": "TKT-1E00D1EC",
+      "issue": "8447 Steven Brown umoore@example.org 19 Other LG OLED 2020-03-14 Billing inquiry Installation support im having an issue with the lg oled please assist 20 100 1000 5g 0h the xs is a small company that has a very good relationship with htc in the last 7 years im not sure if this issue is specific to my device or if others have reported similar problems Pending Customer Response Critical Chat 2023-06-01 09:42:57 3.0",
+      "intent": "general support",
+      "sentiment": "positive",
+      "urgency": "low",
+      "topic": "General Support",
+      "route_to": "general_support",
+      "escalation_needed": false,
+      "draft_response": "Thanks for contacting support. Please share the order ID and any extra details so we can investigate. Based on our policy, Issue: 8447 Steven Brown umoore@example.org 19 Other LG OLED 2020-03-14 Billing inquiry Installation support im having an issue with the lg oled please assist 20 100 1000 5g 0h the..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:28",
+    "result": {
+      "ticket_id": "TKT-557CA71F",
+      "issue": "8448 Devin Parsons jonathanfox@example.org 51 Other GoPro Hero 2020-07-12 Refund request Installation support there seems to be a hardware problem with my gopro hero the screen is flickering and im unable to use it what should i do in order to remove the screen just remove all the components except ive noticed a peculiar error message popping up on my gopro hero screen it says errormessage what does it mean Pending Customer Response Critical Email 2023-06-01 18:00:58 3.0",
+      "intent": "refund",
+      "sentiment": "negative",
+      "urgency": "low",
+      "topic": "Refund",
+      "route_to": "senior_support",
+      "escalation_needed": true,
+      "draft_response": "I am sorry for the trouble. Please share your order ID and delivery date so we can check refund eligibility. Based on our policy, Issue: 8448 Devin Parsons jonathanfox@example.org 51 Other GoPro Hero 2020-07-12 Refund request Installation support there seems to be a hardware problem with my gopro hero the scr..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:28",
+    "result": {
+      "ticket_id": "TKT-A2B24E0C",
+      "issue": "8449 Reginald Kaiser nrose@example.org 37 Other Sony Xperia 2021-12-29 Cancellation request Hardware issue ive recently set up my sony xperia but it fails to connect to any available networks what steps should i take to troubleshoot this issue i have the windows explorer i found some things i can do im experiencing this issue on multiple devices of the same model so it seems to be a widespread problem Closed Speech have officer analysis others as skill. Medium Chat 2023-06-01 19:13:59 2023-06-01 19:14:59 2.0",
+      "intent": "general support",
+      "sentiment": "negative",
+      "urgency": "low",
+      "topic": "General Support",
+      "route_to": "senior_support",
+      "escalation_needed": true,
+      "draft_response": "I am sorry for the trouble. Please share the order ID and any extra details so we can investigate. Based on our policy, Issue: 8449 Reginald Kaiser nrose@example.org 37 Other Sony Xperia 2021-12-29 Cancellation request Hardware issue ive recently set up my sony xperia but it fails to connect to any ..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:29",
+    "result": {
+      "ticket_id": "TKT-D3740623",
+      "issue": "8450 Kyle Roy maldonadosharon@example.org 28 Other Dyson Vacuum Cleaner 2020-11-22 Refund request Display issue im having an issue with the dyson vacuum cleaner please assist please assist support website contact us schn 7097 website contact us prediction you ive already contacted customer support multiple times but the issue remains unresolved Pending Customer Response High Social media 2023-06-01 19:11:01 3.0",
+      "intent": "refund",
+      "sentiment": "neutral",
+      "urgency": "low",
+      "topic": "Refund",
+      "route_to": "refund_team",
+      "escalation_needed": false,
+      "draft_response": "Thanks for contacting support. Please share your order ID and delivery date so we can check refund eligibility. Based on our policy, Issue: 8450 Kyle Roy maldonadosharon@example.org 28 Other Dyson Vacuum Cleaner 2020-11-22 Refund request Display issue im having an issue with the dyson vacuum cleaner please assis..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:29",
+    "result": {
+      "ticket_id": "TKT-B2061CCC",
+      "issue": "8451 Joshua Gomez hhunt@example.com 34 Other LG Washing Machine 2021-06-16 Billing inquiry Product setup im having an issue with the lg washing machine please assist ive performed a factory reset on my lg washing machine hoping it would resolve the problem but it didnt help Closed Four professional practice let miss. Low Chat 2023-06-01 01:01:01 2023-06-01 18:54:01 5.0",
+      "intent": "general support",
+      "sentiment": "neutral",
+      "urgency": "low",
+      "topic": "General Support",
+      "route_to": "general_support",
+      "escalation_needed": false,
+      "draft_response": "Thanks for contacting support. Please share the order ID and any extra details so we can investigate. Based on our policy, Issue: 8451 Joshua Gomez hhunt@example.com 34 Other LG Washing Machine 2021-06-16 Billing inquiry Product setup im having an issue with the lg washing machine please assist ive per..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:30",
+    "result": {
+      "ticket_id": "TKT-414324D2",
+      "issue": "8452 Andrew Jones michaelgray@example.com 39 Female Asus ROG 2020-09-16 Cancellation request Battery life im having an issue with the asus rog please assist 1 if you want new not already installed software you may need to use 1 windows 7 professional 2 this problem started occurring after the recent software update i havent made any other changes to the device Open Low Phone 3.0",
+      "intent": "general support",
+      "sentiment": "negative",
+      "urgency": "low",
+      "topic": "General Support",
+      "route_to": "senior_support",
+      "escalation_needed": true,
+      "draft_response": "I am sorry for the trouble. Please share the order ID and any extra details so we can investigate. Based on our policy, Issue: 8452 Andrew Jones michaelgray@example.com 39 Female Asus ROG 2020-09-16 Cancellation request Battery life im having an issue with the asus rog please assist 1 if you want ne..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:30",
+    "result": {
+      "ticket_id": "TKT-B59E42FF",
+      "issue": "8453 Craig Forbes jessica60@example.org 62 Female MacBook Pro 2020-03-29 Refund request Display issue im having an issue with the macbook pro please assist 919 15 of my 525 919 210 of the 525 ive already contacted customer support multiple times but the issue remains unresolved Closed Interesting show must successful. Critical Phone 2023-06-01 14:14:05 2023-06-01 05:47:05 3.0",
+      "intent": "refund",
+      "sentiment": "neutral",
+      "urgency": "low",
+      "topic": "Refund",
+      "route_to": "refund_team",
+      "escalation_needed": false,
+      "draft_response": "Thanks for contacting support. Please share your order ID and delivery date so we can check refund eligibility. Based on our policy, Issue: 8453 Craig Forbes jessica60@example.org 62 Female MacBook Pro 2020-03-29 Refund request Display issue im having an issue with the macbook pro please assist 919 15 of my 525 ..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:31",
+    "result": {
+      "ticket_id": "TKT-D9CB2FEE",
+      "issue": "8454 Paula Vazquez wanderson@example.com 61 Other iPhone 2020-06-20 Billing inquiry Peripheral compatibility the iphone is unable to establish a stable internet connection it keeps disconnecting intermittently how can i troubleshoot this network problem how can i troubleshoot this network problem what does it look im using the original charger that came with my iphone but its not charging properly Closed Skill expect admit and. High Chat 2023-06-01 12:56:06 2023-06-01 04:45:06 5.0",
+      "intent": "general support",
+      "sentiment": "neutral",
+      "urgency": "low",
+      "topic": "General Support",
+      "route_to": "general_support",
+      "escalation_needed": false,
+      "draft_response": "Thanks for contacting support. Please share the order ID and any extra details so we can investigate. Based on our policy, Issue: 8454 Paula Vazquez wanderson@example.com 61 Other iPhone 2020-06-20 Billing inquiry Peripheral compatibility the iphone is unable to establish a stable internet connection i..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:31",
+    "result": {
+      "ticket_id": "TKT-4BCAA0CB",
+      "issue": "8455 Jill Leon murrayanna@example.org 51 Female Samsung Galaxy 2020-03-11 Cancellation request Product setup im having an issue with the samsung galaxy please assist contact us if you can help us thank you i rely heavily on my samsung galaxy for my daily tasks and this issue is hindering my productivity Pending Customer Response Low Email 2023-06-01 12:24:06 3.0",
+      "intent": "account",
+      "sentiment": "neutral",
+      "urgency": "low",
+      "topic": "Account",
+      "route_to": "account_support",
+      "escalation_needed": false,
+      "draft_response": "Thanks for contacting support. Please confirm the registered email address so we can help with account access. Based on our policy, Issue: 8455 Jill Leon murrayanna@example.org 51 Female Samsung Galaxy 2020-03-11 Cancellation request Product setup im having an issue with the samsung galaxy please assist contact..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:32",
+    "result": {
+      "ticket_id": "TKT-1916CB8D",
+      "issue": "8456 Ariel Lee thompsonsamuel@example.org 54 Other Dyson Vacuum Cleaner 2021-02-02 Billing inquiry Refund request ive recently set up my dyson vacuum cleaner but it fails to connect to any available networks what steps should i take to troubleshoot this issue if your network isnt running you can try if ive tried troubleshooting steps mentioned in the user manual but the issue persists Closed Say position key appear behavior. High Email 2023-06-01 14:15:07 2023-06-01 06:58:07 1.0",
+      "intent": "refund",
+      "sentiment": "negative",
+      "urgency": "low",
+      "topic": "Refund",
+      "route_to": "senior_support",
+      "escalation_needed": true,
+      "draft_response": "I am sorry for the trouble. Please share your order ID and delivery date so we can check refund eligibility. Based on our policy, Issue: 8456 Ariel Lee thompsonsamuel@example.org 54 Other Dyson Vacuum Cleaner 2021-02-02 Billing inquiry Refund request ive recently set up my dyson vacuum cleaner but it fails to..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:32",
+    "result": {
+      "ticket_id": "TKT-3D52649C",
+      "issue": "8457 Jackson Strong hannah96@example.com 18 Female Dyson Vacuum Cleaner 2021-04-08 Product inquiry Payment issue im having an issue with the dyson vacuum cleaner please assist ive checked for any available software updates for my dyson vacuum cleaner but there are none Open Critical Social media 3.0",
+      "intent": "billing",
+      "sentiment": "neutral",
+      "urgency": "low",
+      "topic": "Billing",
+      "route_to": "billing_team",
+      "escalation_needed": false,
+      "draft_response": "Thanks for contacting support. Please share the invoice or transaction ID so we can review the charge. Based on our policy, Issue: 8457 Jackson Strong hannah96@example.com 18 Female Dyson Vacuum Cleaner 2021-04-08 Product inquiry Payment issue im having an issue with the dyson vacuum cleaner please assi..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:33",
+    "result": {
+      "ticket_id": "TKT-0D0F49EF",
+      "issue": "8458 Amy Goodman vasquezrichard@example.com 51 Other Fitbit Charge 2021-11-21 Product inquiry Hardware issue im having an issue with the fitbit charge please assist for the 199 and 299 shipping please click on purchasing items in the menu at the top right of this page for the 99 im concerned about the security of my fitbit charge and would like to ensure that my data is safe Open High Chat 3.0",
+      "intent": "shipping",
+      "sentiment": "positive",
+      "urgency": "low",
+      "topic": "Shipping",
+      "route_to": "logistics_team",
+      "escalation_needed": false,
+      "draft_response": "Thanks for contacting support. Please share your order ID so we can check the latest tracking status. Based on our policy, Issue: 8458 Amy Goodman vasquezrichard@example.com 51 Other Fitbit Charge 2021-11-21 Product inquiry Hardware issue im having an issue with the fitbit charge please assist for the ..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:33",
+    "result": {
+      "ticket_id": "TKT-B03F8C99",
+      "issue": "8459 Adam Nunez gregory69@example.net 47 Other Amazon Echo 2020-07-28 Billing inquiry Peripheral compatibility im having an issue with the amazon echo please assist im having an issue with the amazon echo please assist im having an issue with the productpurchased please this problem started occurring after the recent software update i havent made any other changes to the device Pending Customer Response Medium Chat 2023-06-01 17:26:11 3.0",
+      "intent": "general support",
+      "sentiment": "neutral",
+      "urgency": "low",
+      "topic": "General Support",
+      "route_to": "general_support",
+      "escalation_needed": false,
+      "draft_response": "Thanks for contacting support. Please share the order ID and any extra details so we can investigate. Based on our policy, Issue: 8459 Adam Nunez gregory69@example.net 47 Other Amazon Echo 2020-07-28 Billing inquiry Peripheral compatibility im having an issue with the amazon echo please assist im havin..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:34",
+    "result": {
+      "ticket_id": "TKT-9FA82656",
+      "issue": "8460 Shelly Estrada harveyalan@example.com 61 Male Canon DSLR Camera 2021-10-25 Product inquiry Battery life im having an issue with the canon dslr camera please assist if you cant help please call in a few hrs before purchasing maritime ipsosblogspotcom 1092 pages november ive followed the troubleshooting steps mentioned in the user manual but the issue persists Open High Phone 3.0",
+      "intent": "general support",
+      "sentiment": "neutral",
+      "urgency": "low",
+      "topic": "General Support",
+      "route_to": "general_support",
+      "escalation_needed": false,
+      "draft_response": "Thanks for contacting support. Please share the order ID and any extra details so we can investigate. Based on our policy, Issue: 8460 Shelly Estrada harveyalan@example.com 61 Male Canon DSLR Camera 2021-10-25 Product inquiry Battery life im having an issue with the canon dslr camera please assist if y..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:34",
+    "result": {
+      "ticket_id": "TKT-5EB40FC9",
+      "issue": "8461 Trevor Perry daniellowe@example.org 25 Female Apple AirPods 2021-08-23 Billing inquiry Display issue ive accidentally deleted important data from my apple airpods is there any way to recover the deleted files i need them urgently your name should also be included in the account list i did not have any data or this problem started occurring after the recent software update i havent made any other changes to the device Open High Social media 3.0",
+      "intent": "account",
+      "sentiment": "neutral",
+      "urgency": "high",
+      "topic": "Account",
+      "route_to": "senior_support",
+      "escalation_needed": true,
+      "draft_response": "Thanks for contacting support. Please confirm the registered email address so we can help with account access. Based on our policy, Issue: 8461 Trevor Perry daniellowe@example.org 25 Female Apple AirPods 2021-08-23 Billing inquiry Display issue ive accidentally deleted important data from my apple airpods is th... I am also routing this for priority review."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:35",
+    "result": {
+      "ticket_id": "TKT-898D81C1",
+      "issue": "8462 William Shaw christinebrown@example.net 28 Female Microsoft Office 2021-10-21 Refund request Payment issue im having an issue with the microsoft office please assist how can i get help from gh we look for help in many ways we work diligently to answer customer question we also follow this problem started occurring after the recent software update i havent made any other changes to the device Open Medium Phone 3.0",
+      "intent": "refund",
+      "sentiment": "negative",
+      "urgency": "low",
+      "topic": "Refund",
+      "route_to": "senior_support",
+      "escalation_needed": true,
+      "draft_response": "I am sorry for the trouble. Please share your order ID and delivery date so we can check refund eligibility. Based on our policy, Issue: 8462 William Shaw christinebrown@example.net 28 Female Microsoft Office 2021-10-21 Refund request Payment issue im having an issue with the microsoft office please assist ho..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:35",
+    "result": {
+      "ticket_id": "TKT-49DF3693",
+      "issue": "8463 Shelby Douglas rhendrix@example.net 49 Female Samsung Soundbar 2020-10-21 Refund request Display issue im having an issue with the samsung soundbar please assist you were able to purchase the product at the store please report any problems you can sorry there are no items for purchase ive already contacted customer support multiple times but the issue remains unresolved Pending Customer Response Critical Email 2023-06-02 00:36:18 3.0",
+      "intent": "refund",
+      "sentiment": "neutral",
+      "urgency": "low",
+      "topic": "Refund",
+      "route_to": "refund_team",
+      "escalation_needed": false,
+      "draft_response": "Thanks for contacting support. Please share your order ID and delivery date so we can check refund eligibility. Based on our policy, Issue: 8463 Shelby Douglas rhendrix@example.net 49 Female Samsung Soundbar 2020-10-21 Refund request Display issue im having an issue with the samsung soundbar please assist you we..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:36",
+    "result": {
+      "ticket_id": "TKT-8D73419F",
+      "issue": "8464 Brandon Walsh michele06@example.net 54 Other LG Washing Machine 2021-08-29 Billing inquiry Data loss there seems to be a glitch in the lg washing machine software it freezes frequently making it difficult to use can you please provide a solution it seemed that they tried to solve this in an earlier post 1 i need assistance as soon as possible because its affecting my work and productivity Open Medium Email 3.0",
+      "intent": "account",
+      "sentiment": "neutral",
+      "urgency": "medium",
+      "topic": "Account",
+      "route_to": "account_support",
+      "escalation_needed": false,
+      "draft_response": "Thanks for contacting support. Please confirm the registered email address so we can help with account access. Based on our policy, Issue: 8464 Brandon Walsh michele06@example.net 54 Other LG Washing Machine 2021-08-29 Billing inquiry Data loss there seems to be a glitch in the lg washing machine software it fr..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:36",
+    "result": {
+      "ticket_id": "TKT-55EF2D7F",
+      "issue": "8465 David Todd adam28@example.net 22 Female LG OLED 2021-12-08 Product inquiry Installation support my lg oled is making strange noises and not functioning properly i suspect there might be a hardware issue can you please help me with this as always you can email me at supportlaserprint i need assistance as soon as possible because its affecting my work and productivity Open Low Phone 3.0",
+      "intent": "account",
+      "sentiment": "neutral",
+      "urgency": "medium",
+      "topic": "Account",
+      "route_to": "account_support",
+      "escalation_needed": false,
+      "draft_response": "Thanks for contacting support. Please confirm the registered email address so we can help with account access. Based on our policy, Issue: 8465 David Todd adam28@example.net 22 Female LG OLED 2021-12-08 Product inquiry Installation support my lg oled is making strange noises and not functioning properly i suspe..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:37",
+    "result": {
+      "ticket_id": "TKT-98F626D6",
+      "issue": "8466 Lori Davis russell68@example.com 27 Female Bose SoundLink Speaker 2020-02-22 Technical issue Refund request im having an issue with the bose soundlink speaker please assist sell for 3035 i also bought a 25mm and im getting stuck buy for 80100 the issue im facing is intermittent sometimes it works fine but other times it acts up unexpectedly Open Critical Email 3.0",
+      "intent": "refund",
+      "sentiment": "negative",
+      "urgency": "low",
+      "topic": "Refund",
+      "route_to": "senior_support",
+      "escalation_needed": true,
+      "draft_response": "I am sorry for the trouble. Please share your order ID and delivery date so we can check refund eligibility. Based on our policy, Issue: 8466 Lori Davis russell68@example.com 27 Female Bose SoundLink Speaker 2020-02-22 Technical issue Refund request im having an issue with the bose soundlink speaker please as..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:37",
+    "result": {
+      "ticket_id": "TKT-B022B5D2",
+      "issue": "8467 Michelle Kelley ashley83@example.org 57 Female GoPro Action Camera 2021-08-17 Technical issue Account access im having an issue with the gopro action camera please assist you are using a different browser than the one im using ive performed a factory reset on my gopro action camera hoping it would resolve the problem but it didnt help Closed Eight account century nature kitchen. High Social media 2023-06-01 09:44:22 2023-06-01 04:31:22 3.0",
+      "intent": "account",
+      "sentiment": "neutral",
+      "urgency": "low",
+      "topic": "Account",
+      "route_to": "account_support",
+      "escalation_needed": false,
+      "draft_response": "Thanks for contacting support. Please confirm the registered email address so we can help with account access. Based on our policy, Issue: 8467 Michelle Kelley ashley83@example.org 57 Female GoPro Action Camera 2021-08-17 Technical issue Account access im having an issue with the gopro action camera please assi..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:38",
+    "result": {
+      "ticket_id": "TKT-A5D5069A",
+      "issue": "8468 Steven Rodriguez fpowell@example.org 54 Male PlayStation 2021-10-16 Product inquiry Payment issue im having an issue with the playstation please assist i dont think a product is in the same category as an playstation as it wouldnt have been the issue in the case of the ive noticed that the issue occurs consistently when i use a specific feature or application on my playstation Closed We seat culture plan. Medium Email 2023-06-01 18:28:24 2023-06-01 05:32:24 3.0",
+      "intent": "account",
+      "sentiment": "neutral",
+      "urgency": "low",
+      "topic": "Account",
+      "route_to": "account_support",
+      "escalation_needed": false,
+      "draft_response": "Thanks for contacting support. Please confirm the registered email address so we can help with account access. Based on our policy, Issue: 8468 Steven Rodriguez fpowell@example.org 54 Male PlayStation 2021-10-16 Product inquiry Payment issue im having an issue with the playstation please assist i dont think a p..."
+    }
+  },
+  {
+    "type": "triage",
+    "timestamp": "2026-05-05T17:00:38",
+    "result": {
+      "ticket_id": "TKT-5B679D91",
+      "issue": "8469 Steven Davis MD lori20@example.net 53 Other Philips Hue Lights 2020-06-01 Billing inquiry Hardware issue there seems to be a hardware problem with my philips hue lights the screen is flickering and im unable to use it what should i do ill try my best to fix it now i could get a ive reviewed the troubleshooting steps on the official support website but they didnt resolve the problem Open High Phone 3.0",
+      "intent": "general support",
+      "sentiment": "neutral",
+      "urgency": "low",
+      "topic": "General Support",
+      "route_to": "general_support",
+      "escalation_needed": false,
+      "draft_response": "Thanks for contacting support. Please share the order ID and any extra details so we can investigate. Based on our policy, Issue: 8469 Steven Davis MD lori20@example.net 53 Other Philips Hue Lights 2020-06-01 Billing inquiry Hardware issue there seems to be a hardware problem with my philips hue lights..."
+    }
+  }
+]
