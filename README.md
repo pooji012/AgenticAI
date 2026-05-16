@@ -1,2 +1,2 @@
-# Agentic-Ai
+# AgenticAi
 Project for agentic ai
